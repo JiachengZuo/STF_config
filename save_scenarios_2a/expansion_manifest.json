@@ -1,0 +1,4447 @@
+{
+  "condition_count": 1080,
+  "config_sha256": "8d1c67fddd028acad6742bb8509d7714a85f06529c3dc43a7fa6434c35045855",
+  "created_at_utc": "2026-09-07T07:38:53.683960+00:00",
+  "files": [
+    {
+      "file": "scenario_2a_route_01_offset_p10_sunny_01.json",
+      "sha256": "077e0283b5d7aa5548309542d5af0d665af87d333f45498fe4481085e20dd631"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sunny_02.json",
+      "sha256": "e2d8861c443ac521bac8498473a259e8280d55b1bb5fa8a47eb7ca664cd22c3a"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sunny_03.json",
+      "sha256": "c476b70cff7ed285b850a48385ba72a01cf7c8ec984948e48df927a93b5f9949"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sunny_04.json",
+      "sha256": "d77a5b94b956a5a049838c36b2336c18355430262caf3a548477662650d01106"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sunny_05.json",
+      "sha256": "1f10d25e9cdb858235ebacbb129df26432dc42c46e27822e463e010d38f87ac4"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sunny_06.json",
+      "sha256": "0828d6aa30e9657e871507771e59b86c89a7f3d3e54c79fa7dcc5b09fc684270"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sunny_07.json",
+      "sha256": "79f54b8c87216f074d34123b04e5bf38c75ae80a7132466780e5be1f8dd1c8fe"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sunny_08.json",
+      "sha256": "6d38aae9c9d3961df924e98056d00901997889bf7911d68c0d03a47ca07fdd22"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cloudy_01.json",
+      "sha256": "33fe3b71bcd0683fa9b30626e656e5ff9f6d2e17df88f0c1862245e12b6ab77a"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cloudy_02.json",
+      "sha256": "587c4214e96aae004cc1a3bcb603a4a2b6787515dc0a1eddb1171a7196f5a767"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cloudy_03.json",
+      "sha256": "61c9d14d6976c5a86c5dc615f15ec7035770f50585f7697ca47921cf18400449"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cloudy_04.json",
+      "sha256": "e9af31d6379fb56d78dc8b0d5ec4b62d8d795eb00370c3c71bb927e07382b6f2"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cloudy_05.json",
+      "sha256": "31e76b3d076a8c54f688713e314737ce50cad11aa6d1aa5116f110874145813f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cloudy_06.json",
+      "sha256": "2671cdab9e184ba1e8adc25040ba58f1583b50a4a852ae19ba84b732878f5c00"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cloudy_07.json",
+      "sha256": "ffe360094336d8828fbc29a01dac4779be7ee49179fff423d9342aac22a24b64"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cloudy_08.json",
+      "sha256": "4338c0bda2a7854661f0c5f43ee2541f6bbf54d4129222f0ecaa779af831f6f0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_overcast_01.json",
+      "sha256": "1e35043182251375ec62b9c7e40d665139d73315a094ec626161bfd51bc5bb39"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_overcast_02.json",
+      "sha256": "1e0648c97ebfa3bf51a8b33d9e24767dd92e0d5e6985ae37964925dc2307906a"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_overcast_03.json",
+      "sha256": "81a9597b92638ac86f4892fa2e61ea4718866298417a0882705d9d53f6ed7be0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_overcast_04.json",
+      "sha256": "5be0c1163cd7547e513812d22f2623bdcf6306ab962a88c1fd34933f0be11bda"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_overcast_05.json",
+      "sha256": "88245353b83c1831b29cdf8b4cfc0152d920b4e8acceafe8d5736029b946948f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_overcast_06.json",
+      "sha256": "64824229c3b3bd3994128398bdc0b70aa16bad71cc99b3634c71a1a7388d4079"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_overcast_07.json",
+      "sha256": "52ad98db7fa80652651817795dac158122831e780b280d668cc8ded7e0e70469"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_overcast_08.json",
+      "sha256": "cf50e57ce6161f63b70997a25f98f38e567d8de6028562fb8859573f44c2b70f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_light_rain_01.json",
+      "sha256": "1704418a26e2c063617fab476dda4545b8d56df0c8aec461b0b23aa2d70bc49c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_light_rain_02.json",
+      "sha256": "a8a13d5d4394fbcff0602f6d3e41e003dfef0d85d9fd479461c2ca7ddef563f7"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_light_rain_03.json",
+      "sha256": "2b5e48405987a3dfff8da1d4bd108fe4c3054a98ec5c2664e9dc6a4a7dfa2b46"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_light_rain_04.json",
+      "sha256": "96cf053e0be4a9bf5a8c1f851ec6982cbc0f515113c41f9a5c7e90c4409d537a"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_light_rain_05.json",
+      "sha256": "2867ae7c27d65b24bdc360df1f80b44a28c1ae0bbe71ab01fafee9749305d1a8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_light_rain_06.json",
+      "sha256": "ae7467cb4ecd23e82168117474513663dbbaddbf37eb3f492fd77c6dfa0b0b5e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_light_rain_07.json",
+      "sha256": "96fedf658cd0e5c8b88dcb69311b3057fd820d276dec3229426bf0c5c63cb7ea"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_light_rain_08.json",
+      "sha256": "5d6aa2c20c67db3759a85a2635fb927e63028a940e3fd2a901979340d105813c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_heavy_rain_01.json",
+      "sha256": "00cfb0871dd2559128e93b957f2cfd9411571cf118f507c1687bbf987afa78ba"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_heavy_rain_02.json",
+      "sha256": "2cd7f2119031a803d3cf0c2477191d82461599fa2476dd4db8e417318f41c3de"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_heavy_rain_03.json",
+      "sha256": "5915c3edaef1669eede7915bfd59c994b7a761e71209241eb011047d3e4c6968"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_heavy_rain_04.json",
+      "sha256": "511a6943bfa502c66c8c3b861dcb973644bb402687fd30abb484e6e9663ca834"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_heavy_rain_05.json",
+      "sha256": "d89e2e4841db8b3785be26c8ba38fdcfb78d35355c829ae41f247a096e076e40"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_heavy_rain_06.json",
+      "sha256": "b50d0aea5bc9ac15c6a0e37855d4993b71f6bd42c73901d1fc5000dba9b9730d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_heavy_rain_07.json",
+      "sha256": "a228775695932469f8ec07628a8817f650898edbe89cdbef102fcd6826420c8e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_heavy_rain_08.json",
+      "sha256": "3e886accb640d4044c312c9c372d74c698783a34e259bde5c1214c84b64094ae"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_fog_01.json",
+      "sha256": "dbb594373a52232b0573183e70e3f3d83a3c102983b1afda38c38f8ea719b2ed"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_fog_02.json",
+      "sha256": "b6154c84fa3fd525d540e8896fb800017ba7fd2b5ea9cf899923eb6f8c4d554b"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_fog_03.json",
+      "sha256": "4057d77b5feffd9007e164023c05e8697fbba8e9f5cdc3db4a81fd0431b733c8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_fog_04.json",
+      "sha256": "45c4b91d003a0f39165990b390592d943203debbbb97cb03f85e3b543f614e2d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_fog_05.json",
+      "sha256": "b485f4ae1c0979390e99bf8a87df597b324a1028142c10547af0488afc3c3aeb"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_fog_06.json",
+      "sha256": "688ee1747762286c7d0c5b6d3aefd5157a82aae2e12e52e1d44b23230f7083db"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_fog_07.json",
+      "sha256": "993ddfbef1e9bbf1b7fca816ffbbbc5bdcc7487f0ae5fabdfc44f9b36c402cb2"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_fog_08.json",
+      "sha256": "fed8e95220144a73722292876d8440d21a9df7f27ea57c27e29b2aa258044eba"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_wind_01.json",
+      "sha256": "239dabc218ecddd2592105cc0a2749ae586a2ed7c19a7e411a9a3b8ecdf823e8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_wind_02.json",
+      "sha256": "966d93aba323622fef222a49c785d124daf0ca4911eed6485f931eaeb7e70f6f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_wind_03.json",
+      "sha256": "a3dbdbf7e5ef2bed88c586052294c382a0d06519f85fd84229f9ca8b8067d1c7"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_wind_04.json",
+      "sha256": "def5a7337edfbb3a2bec94ef2f767ce380b74a96de50ebeeb13916382b869709"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_wind_05.json",
+      "sha256": "231c22d19d377d8bf8e5c0c028e6288417a56e617f3fdf5c54dc6f007de59157"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_wind_06.json",
+      "sha256": "3623a7c56253c48dc2880d4df7d90f86d91f20b1ff377760db55daec2c323ade"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_wind_07.json",
+      "sha256": "de90d0c7569a38e6e9cd709b0de051a551603fdaffdc63792f9604519639d272"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_wind_08.json",
+      "sha256": "22ee07392b42debc4951d4a0930785f71526144413b3c8909e74e78a80fc2a6d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sandstorm_01.json",
+      "sha256": "8457c7fc778b1dd2e75f03870c5be018388c277683857eb7d9433db83c2d13b1"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sandstorm_02.json",
+      "sha256": "c06c3d8148e1e1596309120403edb69edc3f48fd279900f6dfdfdbbc9f70d7cc"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sandstorm_03.json",
+      "sha256": "62f9e03e1e37af362bf031d9586728bc5c100fb8015132a46ed5030f978de853"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sandstorm_04.json",
+      "sha256": "aae2fbbe14718420ee42670c012b9f6dc0339c0aff52513df9f456ef9079cfbc"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sandstorm_05.json",
+      "sha256": "ee47b342c8aba1532c122e597227e13aa21a9b432b6cae04f13876df77467d2c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sandstorm_06.json",
+      "sha256": "4bc443bc20fc6cd9b2fa2c312753053bfa35488fcf2f5693476f0ddd1cc8aaeb"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sandstorm_07.json",
+      "sha256": "b5b75823774e669d877dfe7415e7b5a96e42d0beb352d7d5c364eeac96829338"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_sandstorm_08.json",
+      "sha256": "a593b1cd4ea38b8409e49df378d9611fd1ae3e2c0617ea461a886fc1fc848aa9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_night_01.json",
+      "sha256": "c9636264bf441bd9956ee7bf21c66f038edbabd2e300372fc737c4d81cecb44f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_night_02.json",
+      "sha256": "8b00479a22b30dd6ff6be0aa8986a10223273f8f3632a082e286f6b9a75b107c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_night_03.json",
+      "sha256": "af326ae03e79f30ffd2d0903454510d2b989308d236a11db921a999ca99344d4"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_night_04.json",
+      "sha256": "00ac614f74f64e469936dafbff028ae64ac4c5f6750190de309d8a2b8070d2be"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_night_05.json",
+      "sha256": "1a276550fc6647b99564a435501ccd52a2c5c0f27081b598709ebc6b58f6b2ab"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_night_06.json",
+      "sha256": "edc0b9a19dbdf39b4562865dd2a710fd22815455a1ecc16abf6f69f4d68d1127"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_night_07.json",
+      "sha256": "0e1f37eeb00672756fe92c9ffc90a1d224c7e099fd00e283fbd0c56c45e2ddef"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_night_08.json",
+      "sha256": "15809b364ef8930de584bade08ff17b2341b6c175dd6c1fe4c7475efd73dc758"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dusk_01.json",
+      "sha256": "7ad3811d3237f3ed4d10968ffce3fe88f3709d0999bb49dca1961d36d3f66e25"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dusk_02.json",
+      "sha256": "2da381cc03d0066ebe7c73cfa108d4922c0faf7177e6f1e2cf306fa5f1248e99"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dusk_03.json",
+      "sha256": "9410b16d6565a3ffba355a3ff5203c0a0c73a2ffe95fccdf8dda1f93975c7fa2"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dusk_04.json",
+      "sha256": "72e8d22f50af08f8c3926ca0b13e6cf61fb8b068ed039428f4c98c235f278a4d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dusk_05.json",
+      "sha256": "e76856d249ffe464fd65d554a63ee8a802b297fef891473a69043ff0ec7a7e0f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dusk_06.json",
+      "sha256": "a48e2128a3d81e9a5e59a0c70b14341ff232d3706dcea1fc972fc5b31616c93c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dusk_07.json",
+      "sha256": "18ca0426c9a7ec9322b03f1855576350249e316b7823f864629ef3d19db1173b"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dusk_08.json",
+      "sha256": "e9c920dd3033be93cf36e18eb1dba920826c5e2f611ad80c5252fa0b4f17267f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dawn_01.json",
+      "sha256": "e6951824beb615627357823e38c01c2a6798a24919bed9cbc52b3c0436bfc162"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dawn_02.json",
+      "sha256": "7800eabe918fc128930cee6a84da79a2814dbc65adb58d7bb1d70d0994f9e3df"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dawn_03.json",
+      "sha256": "3f3d318ed0e2e90a37f0505ef70145d432a5146d817cd9b374dea2c9572a0de6"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dawn_04.json",
+      "sha256": "94b977b181a44964bae7c13b090bda1d56b8ff2ca55037053c9773332e99d7f9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dawn_05.json",
+      "sha256": "01e47f91eae7b5781ab89da13249286a96ec52585760a3e5e094354b89c27f5c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dawn_06.json",
+      "sha256": "d7bb6ffd8d63740a16b5d383af4b30e118f4040bbf039f82216ef4d128aa9615"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dawn_07.json",
+      "sha256": "c1128f85a760415b7f9e6bc9e54455267dd3e0afadb76b292e463f44d1fc7cda"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_dawn_08.json",
+      "sha256": "4102d58ab887465f410500801e93bcdffd8df7fec0e850f6aca276516e6a3819"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cold_fog_01.json",
+      "sha256": "d471f3f62403fb150e4c4afb59751f123a24de0aa8dca0bbf0b8137e588ccf5d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cold_fog_02.json",
+      "sha256": "dc6fa3b267954748d1f06448eb5db8238df2c7c63179ea562e4550ff829d6176"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cold_fog_03.json",
+      "sha256": "5a33736541d0fea879d5e313e24ecc7251cb48a96dd85b31eea3bdc2fe75313e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cold_fog_04.json",
+      "sha256": "3bc13dc225db87c2b12ebaf9a48d62eb556a4164af465d877583ce6c00955e87"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cold_fog_05.json",
+      "sha256": "48adbb091892228a6af3a35dd961fced1aa57f47d414b01216c955ac26ac9b4b"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cold_fog_06.json",
+      "sha256": "de0b3031635159181c0365602c75fb92c9823f6d7d21ac8626cd8043a3abbb75"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cold_fog_07.json",
+      "sha256": "1a214d93dcf64b4a5a002f9660b660393e76b5e71b290a4b29e5b15b1264a84e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_cold_fog_08.json",
+      "sha256": "1de0dfddd55cae27b5574e7eabef65d6092dd5467f704bf5d8b2dc6562fa6808"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_rainy_dusk_01.json",
+      "sha256": "aa405c2b1720603eaf8a52e1064c39edba6e1e9c3c30964b26100a4e8f3e116d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_rainy_dusk_02.json",
+      "sha256": "81e60f6227d6a9beeb777260570c51398308b17a71fbef403216422c8ec7f596"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_rainy_dusk_03.json",
+      "sha256": "b159df3fe3f4d6160e30b03c8b0da787860fef3613d1713e3f3e81133fd802d4"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_rainy_dusk_04.json",
+      "sha256": "645ee6c83380cd19f8b0ec32563dc03b5d52267519b06d83b828e08efc4a7400"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_rainy_dusk_05.json",
+      "sha256": "aec16ed88ba637ffcc30d5a6ba3b8c45daa6cdf5cb3288658b11cc92bd261f7e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_rainy_dusk_06.json",
+      "sha256": "6b5b5b6a29a5a28c7f476796d93c3a8903f130e5d72fc085cb34f71cb4b38087"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_rainy_dusk_07.json",
+      "sha256": "ab917f778ca8e97d57d86bb5ae5f5d28267be816722ac6fe9d510c5fe30a3782"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_rainy_dusk_08.json",
+      "sha256": "d28f22813b063aecb54ad92a92ae4eeeaa3ebd2b9280930dce25551c75d15346"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_light_01.json",
+      "sha256": "22a8bc7931ab72c69b74379d0445346114d273a83c6a3a8066aae9b8a0d7f54f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_light_02.json",
+      "sha256": "8c4f6fdfed2fd5a6a686f4afd1ff9d2c6e043440e6d9a34cfa019a5a337da414"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_light_03.json",
+      "sha256": "f33d9f1a7360a698c125058f2da60b78ff3db004726f3855b896a9c81f8c8025"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_light_04.json",
+      "sha256": "4f6e0db52945b478de9e6a3a7585677341d10bdf58a34405ac023cf8d4730777"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_light_05.json",
+      "sha256": "687db4674d8077ebe81a9096d2ac89579e0b0743de2cbc00d92f180a089e446a"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_light_06.json",
+      "sha256": "da7393f83f66e18e0f9b9964085366b9aae698cb99b93df3124bd9960b70ec49"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_light_07.json",
+      "sha256": "e33bee4f3a046eec43675b33699f6b1a261b212136cdfae7e041e744469fb162"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_light_08.json",
+      "sha256": "64293ac68624a7d723fdb0e112c5dba3ed3037bcd2433e78e0fcfe50557e8d51"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_heavy_01.json",
+      "sha256": "1ae692a894f80effb9abbe2913301bc2e03fa0a7c1a1123085d5b063e65154a5"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_heavy_02.json",
+      "sha256": "560cf1044f65c5971068b256272505a3afc8719807fed92efdd836a761f6b2f0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_heavy_03.json",
+      "sha256": "38b2e6171124c0b440e0bf77941688553f8f2d1633cf472295e1e7375585ecc9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_heavy_04.json",
+      "sha256": "7ee8286c8e7596db07524da9b64458ce582d70e5d17fbe06360bdfd6c0ab4ab9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_heavy_05.json",
+      "sha256": "6b3bae27052c11675f020e171641e9975739ccd13bfd2d204c907046c140939f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_heavy_06.json",
+      "sha256": "63e2fb4f512957ad185b1bb39a33e519e6385d489e11d7b9ed7c16c335d48572"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_heavy_07.json",
+      "sha256": "ba6f5bbcfc652cafd15e0607ab3e29e80f332aceabdd779db53807a1f8eaf0c8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p10_snowy_heavy_08.json",
+      "sha256": "7c00956fb46a61787c835a087143ad8a878b589fbe2786358de28f8e9e2ec4ba"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sunny_01.json",
+      "sha256": "2263aed6d0416fb5b402c81966fec7a48c4b6778eb728ed009ccc5b8f7dbb9d5"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sunny_02.json",
+      "sha256": "2c96bad66905d12acd5136521595df3aa15788ccf4d90bc76c7fbc23b29137ef"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sunny_03.json",
+      "sha256": "faf4d6b6e8ae7bdf6ced40ee691a99c7ae142e84b2f943588443298fa48a7947"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sunny_04.json",
+      "sha256": "8b14314c3d986bdff70bf0658a706d83b1d7ca1f645813313e6f13d9527857a1"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sunny_05.json",
+      "sha256": "7d60d81ad4e01e24f318e415a151e7e5dc8824bd48caf345632ffaa38e8fcc04"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sunny_06.json",
+      "sha256": "24d6531d326c9bee55adaf8aac299b81bb327e4b821c4bc4d6b16c1d0ee5d2b2"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sunny_07.json",
+      "sha256": "cb78e4db5163087c5fca67f3d5d7fa6971ff2499a0de0618763d96477020bdfb"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sunny_08.json",
+      "sha256": "cf543a70e8deb1c8c13128b4acb07f4f2f22da6b3fc16cdf66f1fe00cf8e75e0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cloudy_01.json",
+      "sha256": "84c872a647cdbc4a830cfd4be89615603c44b5ba60715878d1512ab4a29ddf06"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cloudy_02.json",
+      "sha256": "e179ef2537e41ffebbcfb81d959faba3e80cd612d3aa4f59101ee1df6b5c4264"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cloudy_03.json",
+      "sha256": "ea2aace2d3043cc8a038e56c9278a5b3315d4f1cb921ffbf8f9cb8879c382b3e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cloudy_04.json",
+      "sha256": "5f3e0ddadcd13ef258f9822025cf920dfbbd7a35b876eb9602d39256036c156f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cloudy_05.json",
+      "sha256": "0919039f815428e02eeedbef8072a09bb9bef43c001d5f79887644e34d4af2b9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cloudy_06.json",
+      "sha256": "ba2e4930eae1fb656ce530c5100f5ed1bb7545de4bd2e85163d4009c52e8ba13"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cloudy_07.json",
+      "sha256": "e20a8b12c9a64d4ddd02438904478f9a16945aad76889dfbfcba1dfad698180f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cloudy_08.json",
+      "sha256": "0240094ab2082cb0af9c8f0bc1bb4559566ca6dcc4fed6b35f12d7256c2ad945"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_overcast_01.json",
+      "sha256": "aa77a9b2efd6b4072fb8b097e2a0e5739d02b536bb01d6005773b7ca395ecdad"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_overcast_02.json",
+      "sha256": "17fc3bdc592095957c2103fec247882a001b0358b4de73c2e1c4468180fdb222"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_overcast_03.json",
+      "sha256": "31ef1f6e4e92c7e6f41ec8f45a2d3b55cd381ad09734af54b9bf9775d1310bf5"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_overcast_04.json",
+      "sha256": "d27aec93dba004547ca6d66035794b024ba21203a4335566aa679ff2f4c1d770"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_overcast_05.json",
+      "sha256": "f0b4e4efe8a84d9f89beb3d0a60e48b344f4ef8a3b5871f75ba26e6ed042afd4"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_overcast_06.json",
+      "sha256": "a746389806133c2f493bd70b9103f1189c95b7c2e60ca5001581aef959ed55ab"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_overcast_07.json",
+      "sha256": "24fa1471e23bb5fa1aeb911ca11e10ceadbd8fe9e2a579addf311e71d88eefb5"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_overcast_08.json",
+      "sha256": "94500fb5e423976ea38280d369a0ccc39b51af2656c6d0d5b57c5fc3f4dd7200"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_light_rain_01.json",
+      "sha256": "d92d37c06f9c22f62edc62598cd2045f2ca346b136e56ee772d2a4f823fb7da8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_light_rain_02.json",
+      "sha256": "8de61edb59a55cabe5c13f1ca0d0b2ad996a2e2aeb4e5a6ca79dd392e1e3ea3e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_light_rain_03.json",
+      "sha256": "89bc2fe584a6adbedd1d412ddc6f5fcfc91167a068fd915d8c4b10afb263130d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_light_rain_04.json",
+      "sha256": "c5f5d9ae2c95c9d58bbdf5e5ac4567c3522c3adf6ca9a50c297b1fc0e7779f84"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_light_rain_05.json",
+      "sha256": "eecfb13a8e61dfc72f8ce0291183e5e71102406f2fcae660c40f0858a5148ca8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_light_rain_06.json",
+      "sha256": "c2d585d57f6daa6eddb3b8f9c7f3b240e05a393c2bfc8a5a34f875c538d02bc4"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_light_rain_07.json",
+      "sha256": "20791389c76b822f64688f82b09fd228210a5ab1f1ad2386a1701e38703a80d9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_light_rain_08.json",
+      "sha256": "aac1404cdb5f94437349a45d5d921309dadd7acd74582794d37e9ceaf1eb4555"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_heavy_rain_01.json",
+      "sha256": "09f31208912ddc1cecc2be175c3dd6f13fb9861138579b70f6044ac297b0c545"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_heavy_rain_02.json",
+      "sha256": "d167a48f68f041c44d076fec85ad323aeb149766a57849398c76bcc3e20740ad"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_heavy_rain_03.json",
+      "sha256": "9a651f95073df60354bd526f148d2b9cf7cdaef3ee450962ccba6de8d579dd27"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_heavy_rain_04.json",
+      "sha256": "d6ec1fed15e6f1dc6e4d421213bde24f68b9bdb2ff73a6979412ee7957af76a2"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_heavy_rain_05.json",
+      "sha256": "680c0e125331fdc62ae6986b740200a63c66ebad02cc541f709cf08ef9acae14"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_heavy_rain_06.json",
+      "sha256": "5f55fd2c246d4df4dac6879634dc3226356eed573894a01cfe4e0e6d70cb745b"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_heavy_rain_07.json",
+      "sha256": "6627caad91c8d58a72617c161585114128c828ab577d273302858d38d92cf488"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_heavy_rain_08.json",
+      "sha256": "41ff26d2d8f67ef02d4c6e466aba8635e0a0a0bf42dd38e7ae2fba4a0b3e65a6"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_fog_01.json",
+      "sha256": "f8f97b95fab56464a31f4d11527dccbd4010956f46e1220637316c6a4ec01bd7"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_fog_02.json",
+      "sha256": "c41e03d838b8e1782b84c436491726ecc73c229bbce6a508a8ff2e8f17573318"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_fog_03.json",
+      "sha256": "1bc40a43f6a1346739de9d1dfe44374e2bf3badef892ef0f91c95b2d42ab4034"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_fog_04.json",
+      "sha256": "f5b4ab4d0aaa772b36cfb873cb43de9bfa765d5af515773a0dbd9a0a5ad13c7d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_fog_05.json",
+      "sha256": "1a7b36a3f6791561e0649378e9f3e3bb02c3d0cc9ce8c3a783faf3bf0c414bd8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_fog_06.json",
+      "sha256": "2280dd3bbadb57a1eb3bce03145a1b750da6cbd7b83e983e633cab1c25bec2a9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_fog_07.json",
+      "sha256": "3397d95292b59df6e3e0bcba2418cf465b7ed666d21a4a7d7c7d94c8fd9ac275"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_fog_08.json",
+      "sha256": "bdfb28181d7603597576ea1e14b9d6954e59292c7d9b0221755d3a0592dc8fbe"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_wind_01.json",
+      "sha256": "ac53f8b3afce014e911531d5fcaf1377ee7cb125ffbebdca3f435bcdb2ed61ab"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_wind_02.json",
+      "sha256": "59b4ab21007185847fc6a97dea788fc798f5ea956e35b00c5a3d60c416f1d2fc"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_wind_03.json",
+      "sha256": "90f732a676fd38c3323bac999554853a19b03c3341be158addc4ae8e9f6e60c2"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_wind_04.json",
+      "sha256": "2ccb55af542e82762ce5466f436dfb31bcd25209f83346d6e517a824d15a1b74"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_wind_05.json",
+      "sha256": "058a9c1135bb33f0ab3001ec9dcca29a2e5ed6ac446522158bd10f1e3cbdb269"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_wind_06.json",
+      "sha256": "54c1bf09b424ccea1637099abca7d127563d6e35ee4e30e5a289c305a88bf608"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_wind_07.json",
+      "sha256": "351ac66d1fa2fea8e0edc0ad6d312e15186355c64f6ce4646a1d67b5456b6ab0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_wind_08.json",
+      "sha256": "780d415ae259cb7c4ca98ca60c7dc28e56a2e01a68485cbd61aca1695aa7a2b1"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sandstorm_01.json",
+      "sha256": "5d0e179da36aea1aac8e6fbe438568d2f4f7badfdddb3ef2045569fa53fef2c1"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sandstorm_02.json",
+      "sha256": "4102c0bbb8898f6b441f48ad6a4b196c7cf0ae4375b8d523a1421a2473646586"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sandstorm_03.json",
+      "sha256": "eabcc1b4fabcf9c11151e6837fe910f29f5bb2f8febe49fd8ec56a560dcac25a"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sandstorm_04.json",
+      "sha256": "fc06d0b308bb427bb38912012ce9b9c41052c811beb444742d1d2a609b5170af"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sandstorm_05.json",
+      "sha256": "c8d2782c672447e0066074e5dddefb77ecbe33c7b8c6aa38c9ffbb7de4da376d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sandstorm_06.json",
+      "sha256": "68ceb26b9b459285390217840201489c1ba3da6c8ba52fbb12b6c90bf851abc5"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sandstorm_07.json",
+      "sha256": "9b7b7a3e50385b7466ab8230e1b4712a3650dd6855496293cf8116f84f5966ad"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_sandstorm_08.json",
+      "sha256": "4167484cb961963581ed7953cc50049ad641d039a409942a1fb8765a7365fb42"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_night_01.json",
+      "sha256": "cb5e9a62e8d23f3f4246c805fd7012f0ec08de199466798d8c0f1fa33621de84"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_night_02.json",
+      "sha256": "09304f9379f0d7ac821a5d6597eeb218a9af7d4b02d180e646c9eddab46b6667"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_night_03.json",
+      "sha256": "e3bfdbb56e142056531c38addccf7a38bc4252081d025c17ca1408e9e6b51158"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_night_04.json",
+      "sha256": "53f0c76f758023d4a883d729493982a3201984e711eb0bc2552c80b60384883e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_night_05.json",
+      "sha256": "b472db534bd4a7b1d5eb01294a2f2e5b81fcf8b62e08a6877542935cb6d8b842"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_night_06.json",
+      "sha256": "5339d44df556ae6b9ca3626403311578fb05a141c75cecbac4e56eb57ef88956"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_night_07.json",
+      "sha256": "2e6f0246f190ab0124d21ca58230b9072d5830f0c87430f158f47224a45b8c83"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_night_08.json",
+      "sha256": "c202ad7dace186a9b1ce8652b9be2b92db655fe17b900256eaabae276b2be189"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dusk_01.json",
+      "sha256": "9024d938b14dc607ce99358a13058f1aa283ca7a0175bbf5ddbb29f28be71800"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dusk_02.json",
+      "sha256": "3148962952d9aefcc4a25e31fcbd4e8603af544751768de09f0ed7a647b1cb7f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dusk_03.json",
+      "sha256": "5c85a19d042d6f70580447838c3d2b99a9c359d3b2f94f3911106f22af36c680"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dusk_04.json",
+      "sha256": "a7626e71dfdb678b133166c0530897a1a770987f6989afe2ec170ae1cc3b1ce9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dusk_05.json",
+      "sha256": "42470dc16ce5d541bdbca98a04319fa8d25df1acddbe5acab034863e1fb724d1"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dusk_06.json",
+      "sha256": "1c4165a57176951a6e089d00d166f4dafebf21d48739214fcfa4d9360679ba17"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dusk_07.json",
+      "sha256": "d0cd3e8109cc93b152cf927a84de7a4b468ecbe1875202dab0b52fa915c08596"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dusk_08.json",
+      "sha256": "c6dd1ef92548d06ed7e5bbac2d42a8d0cc71101986b5720bf9d59d231b967836"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dawn_01.json",
+      "sha256": "da8c5e38e087e20f032e65880f52f7839e0042105ad425196b42fda798f82396"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dawn_02.json",
+      "sha256": "8a6358cbed30b8cb2f0301c513bfe9b7f35e14c440ea876c26f6fcd312d90aa4"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dawn_03.json",
+      "sha256": "943edd7890df7d36766dd841363b71b18065891c27ee1d3cd544141c9d89f457"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dawn_04.json",
+      "sha256": "b178b98c2da7d91f6d747f056b2f5188797bc6b5a2321cd5ea214dcfbdd66f78"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dawn_05.json",
+      "sha256": "e0b3261a48a2549e1cd40e313a6af424e1dd09f8ef43d2faf81b05e365eccc5f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dawn_06.json",
+      "sha256": "45815391cd058ac53fb370aa609834b1f4450be6865dc3c7b483b7a457719d77"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dawn_07.json",
+      "sha256": "9173e9e5ca488b2f1606a0bc6b86f1b543f6e6c7d4a4e3627c14e4a07c33e75e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_dawn_08.json",
+      "sha256": "ab2d45485956ea6ce3404bcbb40fce945e80f8a53858d8e218466100832af17f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cold_fog_01.json",
+      "sha256": "414ef6797c1022cf44cf8077c3b51bbe837ffedbc08fb844800611eb735ebce4"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cold_fog_02.json",
+      "sha256": "e4aa261321bdbe0d746227fd8c9379b32c0c1c767f3573808ff8553a5975d7be"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cold_fog_03.json",
+      "sha256": "8a3abae3c5017e3472a796d1163047451c3209aa94de0864218959e94c1a7fe0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cold_fog_04.json",
+      "sha256": "e77dadca11479b2eff3d96bfbc3a83847ce5ff3ed709d38e8f1d0e3d1ed79b3e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cold_fog_05.json",
+      "sha256": "85754cafda699e492d7cc4aa2f252a3760a580a80d656885e8364e7dd686338e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cold_fog_06.json",
+      "sha256": "22401c528d9a0abe7e9e456f85c33ff3c2d4b74bb6ee90cb0cf7038bbbca6f86"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cold_fog_07.json",
+      "sha256": "5d05fa247542ab3ec8413bb9b5be94769e965177aa817dc04f4b423c9877868d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_cold_fog_08.json",
+      "sha256": "d25c3d3c1d5757e9a27e752e7e551f9fb73a06346ce23eb3b500a34afe8a8eaf"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_rainy_dusk_01.json",
+      "sha256": "39994bfcfa6a700d3cc9050886fccd3011a6fd228aa2bc32a400c80b5ddfc5da"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_rainy_dusk_02.json",
+      "sha256": "2c8bfce143ca6e4f70138e29c923619aa4f2100ca4870c7a62f1be4269715dc6"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_rainy_dusk_03.json",
+      "sha256": "851bffa8e6e2aec86ed906c76e29834c6bfad5a4f8a35f7ac483d55f4e347e34"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_rainy_dusk_04.json",
+      "sha256": "68615915d7d9d58dd6ac281e871640944a2e6593c96ed985d0fde6feb4dd9402"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_rainy_dusk_05.json",
+      "sha256": "f983a9a92506e0fbcc307011180e8b764b30034774ae14d7c538198d15b8d493"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_rainy_dusk_06.json",
+      "sha256": "b46c36838dc647df7b628d3f2363c6e7e7854c997c3b325d0fb2028604dd1b1d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_rainy_dusk_07.json",
+      "sha256": "4b57cd9b0fd5a93962181e5ba6ae97680a88a4d3e0f27333e624d1c5596cf5cf"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_rainy_dusk_08.json",
+      "sha256": "a7b36756b8bdcc732a114b5abb7b8b3049eac272639121b4f95edc5a34378e97"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_light_01.json",
+      "sha256": "cf44fafdb9e922c780796d405f7304fcc796b1c4ad74b5f2fe5f3a00c9da59e8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_light_02.json",
+      "sha256": "fc25abdb8b09bfa3f8814ea8e28ccea2d39984ccb25e003022c30f89425ce623"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_light_03.json",
+      "sha256": "be2118a6120b91d705cb017580843a9afbcc590387e2abb5f8c2bad428d883d9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_light_04.json",
+      "sha256": "e2485c68f7f26b9959a58769ffcfe050e596ee0a93ecff310a6dd847680163f8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_light_05.json",
+      "sha256": "0d2a6c4483e377bf788d4cd5a56f9283520b462baf306d4ac5d014c8766046d6"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_light_06.json",
+      "sha256": "5cd00d02a85a425029d38b7bed1efc6d479a7d983f24c4673d164a33566adc34"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_light_07.json",
+      "sha256": "14ecb4e1f2d79ee9a4b1955eb3ed12524911fb202d8f981d5e91a71129e1e86a"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_light_08.json",
+      "sha256": "5d903e3b16fd552340a0eca67b4cd8d7ee1c4e6035db3b98474114e4fe0f499e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_heavy_01.json",
+      "sha256": "37276f7cb3ed4567efd1161578bb0c6fee304d0e564af7270e0e3fc52b04acec"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_heavy_02.json",
+      "sha256": "307072931f9ce5c61d7fbb0ca0713619f0d130a58e8de86621954d8687255a88"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_heavy_03.json",
+      "sha256": "80deb88c8f11c7e1f2996069a9fda8a7e72e1c63110fdecf5489b742c0c96f09"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_heavy_04.json",
+      "sha256": "e2406becb81e4659820dd111008aa1d6937bbd023fa05a4107d2053a6b4b8e8a"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_heavy_05.json",
+      "sha256": "15284a8d396f57715a9741426f55d1982fb0eeafb729efe9a15d6beb50daff1c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_heavy_06.json",
+      "sha256": "b541d890cbe85072fa4b06962cc4806f3b1f10e1283367dbe278eb952eadc9f8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_heavy_07.json",
+      "sha256": "ac4d94cd2b9a0b840d3aa29344e254e64375498f57fa376b843f8d3a4b51db93"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_p0_snowy_heavy_08.json",
+      "sha256": "fd3e446da03ac25fdc1ef220c449ed34a1547be0dfbbfabb919fe219507e3386"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sunny_01.json",
+      "sha256": "43d99704c32592a69042e05b2583c0988c1e2324ac642b5a5f5437528cb230c0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sunny_02.json",
+      "sha256": "c9ff10edf3314e00c5be673d99f2c2661a61b9ffc3b597410f6dfe460900abd0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sunny_03.json",
+      "sha256": "d7053a03182346848d275661e3fe1609b267f51b2937603bfef3cadac223884c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sunny_04.json",
+      "sha256": "31b50a1637c7237eab30585916d419c8b11b89e0ba4b23db928ed6899b1cfbfb"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sunny_05.json",
+      "sha256": "bb24fb93b0f79e83c4c737dc0c0cb3d8ccc963a1cd97c22337302cdc4c256ff0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sunny_06.json",
+      "sha256": "8262463b78f15c62118eb04c0bd8c520c764b2581ce8c67fb92140a0daba7d49"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sunny_07.json",
+      "sha256": "6cf83f3735f085a90fcd5fbf8e3d7ea70a8d55f8846fb6c430c85930becd2993"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sunny_08.json",
+      "sha256": "1923b28ee7dd115b8391763e7033dffd91fbbcb41d7d6462a868746e0f20ef78"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cloudy_01.json",
+      "sha256": "728940f64349dcf07a3404e2109dbf37211408085973eb66a57a479cc765a1cc"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cloudy_02.json",
+      "sha256": "ba86d669999cf5da4b523358ba551faff2b212b9cfa36ef5b10c3000e026e0fc"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cloudy_03.json",
+      "sha256": "83869b3c790546e212f3dbb29da539d7cd4098e3b6e61a728b4a1a769f468bd3"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cloudy_04.json",
+      "sha256": "2d58c95b6c69c034a567635b3fd94e53d0c5b5bb97b2a842fbf8505825acb2be"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cloudy_05.json",
+      "sha256": "1ee4f94d27dfd68ab5afc2d66377b2bb8c35365790c92d0d128bdb49e48c11c5"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cloudy_06.json",
+      "sha256": "7264241836957a90bc452c721a985c5ad29afbfd22a73434efdbbc53d50ade13"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cloudy_07.json",
+      "sha256": "2157b381db8cf56854eac5e38e198bdec87ce16a8b09a34f36dcd8d71a40b37b"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cloudy_08.json",
+      "sha256": "78e72d64f6fc189d8424e85590a069e45eca748a91a861fd6e8c7f0930c5272f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_overcast_01.json",
+      "sha256": "a09b332158712006554bef1bd3c17194f303507451a7f3b82cf08f9f43437802"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_overcast_02.json",
+      "sha256": "e74139587e2047738c12b44cc83f1ecf3b6d18a72202f2c5de37920e79f54f46"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_overcast_03.json",
+      "sha256": "ffde184b9514ef8f3ef732212d6d3927258b12adfe90b4e3f9d4c707e8b775dc"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_overcast_04.json",
+      "sha256": "a3fd1843ac4c4b1e8726ce02742b4ccfac1280aff38fcb9034564a6977f6c043"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_overcast_05.json",
+      "sha256": "69b95342e68ba681a133945787b53225e845e45bb3108a0755589f09f47070bc"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_overcast_06.json",
+      "sha256": "6789955a5843977a6fd5474b67cab9fa23903d41e35cbc4a15f71e6f8320c518"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_overcast_07.json",
+      "sha256": "b747165bb545d2611ce056140a005b1bd32bc1ce28d54eef6bfc4069ed8f864c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_overcast_08.json",
+      "sha256": "83db5ff8dd388e9b9bb8e6c3f4d2b185615d7afe543cf5ce34c1bf66bba31c30"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_light_rain_01.json",
+      "sha256": "f69ad1d7cf9e014873aff8103186d7a48362460d4dd1f1621730211ec74d4734"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_light_rain_02.json",
+      "sha256": "744cda816c637c5f4add64fbf715c9c6399567293b5940880c1a8a8df1b5fab8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_light_rain_03.json",
+      "sha256": "19a12055097eac64de547094b8dbc0bc1f275f37a3ab831833e25974de387b21"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_light_rain_04.json",
+      "sha256": "c3628852ec52c1677b5fefbd917f5a5716e50ad9d692b8625fbfd7a8d0374fd6"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_light_rain_05.json",
+      "sha256": "2a8432a2439ff7c8e1c3a12c2287b801bcebd308e374b26106d1c917c28244b8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_light_rain_06.json",
+      "sha256": "c246d027d3ae415aa9b5064ac162d1ba4bfdb8af92989f0894ee62b567a5d71d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_light_rain_07.json",
+      "sha256": "54bc67ef5dbe3b17f4cff642e5ab58a37af4816a62e6ac5dcc24598c86f3dd50"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_light_rain_08.json",
+      "sha256": "4f751cf4e0291c26f8be2d2c57911bc04ba886cbb33891d4004f37dd4cf3a1fb"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_heavy_rain_01.json",
+      "sha256": "31257a39f03dcfa5f13e619e1c9f9e1d7ec8d2599323d76de0f0dc914ed8b03d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_heavy_rain_02.json",
+      "sha256": "99485ec3b4cc22e0f6d631e078f63e7690404c83338311cc6b275b9b9f03b9f7"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_heavy_rain_03.json",
+      "sha256": "f669b206bfc3878fe777ebb857d70fccd97523dab476ea918e53a08587ea36a3"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_heavy_rain_04.json",
+      "sha256": "66d6de7c4a98694ab398c48afe1fca0a197ce0d067162553c36f4fd408401656"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_heavy_rain_05.json",
+      "sha256": "c8fe43e328f5403480ef717d445e67925209968e2856f8fe9927a82f175255df"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_heavy_rain_06.json",
+      "sha256": "5ce0421829b454c8b77a7d3b4cf25cc3d1b255aed51d5a0f61f333ac1308dd78"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_heavy_rain_07.json",
+      "sha256": "2de94b2c45c6b540e90159eb4f57b0a6c31873e67ea6c91749f318c742c2a7ab"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_heavy_rain_08.json",
+      "sha256": "fe5eded8ce357f0a2f94b982e88352ccd433f7ebe2dcb66e2f11adc085bad408"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_fog_01.json",
+      "sha256": "eb31259d60fbf3106a53baf5d2f4bec8c50b49c6129f114597464f2aa6a2cfde"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_fog_02.json",
+      "sha256": "e42864c0ca5dedefcbee657bb005f1d447b9fd7280c1d1182b7c829d25ed6563"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_fog_03.json",
+      "sha256": "274a4a5ebb3ffe6a864773a3c52ad986baeafee9ad512ddae1df6643bc97dd0e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_fog_04.json",
+      "sha256": "2576dbf35637dd6acf7c1ca6ca512cbb5b61d18d354fff45510356728cc955e1"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_fog_05.json",
+      "sha256": "5b89121965797e22d446a4bcc878573d5450b65a82b5e41f519d3393c005d50e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_fog_06.json",
+      "sha256": "48d5e0eea4a3c1efd6ca755664b73743811f45b47c0782281e1c6ffa6817c8a9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_fog_07.json",
+      "sha256": "ac0050b9d498c24916ea08a954420ce13edd99da877afc860525ed2c2233c8f0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_fog_08.json",
+      "sha256": "9d61b2291a9e1768054e9f244753d66060336cfcec807773dc7ddbcaf0dabc39"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_wind_01.json",
+      "sha256": "8b71497e7684dab632c86b8bf3723c6e6086bda66f45bd6d1b811d335bcca0ff"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_wind_02.json",
+      "sha256": "1dd904c81fcd26b5848affdb9307f110108aefe61c1175eb3440839573253f1c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_wind_03.json",
+      "sha256": "47ef2a92791158ea607814da05cb65293b5490d7716f0f7fbc81714a5d37a26b"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_wind_04.json",
+      "sha256": "464fb5b1da6c742216a55075ff889580e2b4922664d2ebe29a88a2dc94a5b2d0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_wind_05.json",
+      "sha256": "e72ac5048bf91424699e83d733ad39a8bb30fafb414f13abf89511e745a4bf7f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_wind_06.json",
+      "sha256": "78a96156bf74a23223ff352a4b25a2ee5b66201003c63bcdd7dcceb44707f2e3"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_wind_07.json",
+      "sha256": "945c05f92c771df95c76ec94310c5ab5fdc687ca52a5973e9d3bfa8f559f4353"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_wind_08.json",
+      "sha256": "d14c4e8c47396a7ae0a6c72acdf9d1992e164520c3a4b3d25138015ca96cec10"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sandstorm_01.json",
+      "sha256": "aa3466a812516bd1527a0b8be9d84d93c499e8a074309f9cbe4bf4346619308d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sandstorm_02.json",
+      "sha256": "2d081fc09d1ba46cfd8d81700877e8bf07f4f6bd977de4282fc9d45d3b2e0de4"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sandstorm_03.json",
+      "sha256": "5f0d9c4d41aadfb9037dd8324a1257837f07925842fb68a4558080cccfb6c144"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sandstorm_04.json",
+      "sha256": "7823c73b6d03407ea3e40f6dd441b2c40f34ecc581405997b84f07a204986501"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sandstorm_05.json",
+      "sha256": "d94fa9cb96b07330aeffd2731c61773253e8ae6450a9d04ffe6c1574e9b52598"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sandstorm_06.json",
+      "sha256": "2ed11b4651fa526729ee2bb583e91853310fea97409960716b4ba3f31f76c939"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sandstorm_07.json",
+      "sha256": "ae013eddfc083377dca626104ee088884e13bfd96b77c4d59c3784655ca9b4a4"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_sandstorm_08.json",
+      "sha256": "8ceb4ad0a37ad9071a7a3735e3597bcb4db51f7c0d5fbaa015b96bb660436ef4"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_night_01.json",
+      "sha256": "ef68dc5eb94cf3312a43b0d532ad4416f411b0d5e3867fffd0c82f4aca35bcab"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_night_02.json",
+      "sha256": "22c7e5040cd55bb5a56bf1ccbc5438a545a829899e63bda1a64a5e04aa9caf29"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_night_03.json",
+      "sha256": "62d95600dbbce973215cc9c943a2208aa2b731dea12c535d3c5c6253943a79db"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_night_04.json",
+      "sha256": "50d3d879fedae8a9ccce93e204db2cdff2931ea0e5489b5060c0fb38bc507c5a"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_night_05.json",
+      "sha256": "f6743f925b500398243dea6f02a48ab28c31ccb9f104b137dacd704217b2fd97"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_night_06.json",
+      "sha256": "fe66d34e8d2a93c9125693250474d47884a2fdea676a23d7c94de59740fb2541"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_night_07.json",
+      "sha256": "61dcaf3f9faa4e6dab623c81dbadb42b8891c1e246819fd6020352798fc02033"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_night_08.json",
+      "sha256": "1a429bfe35e4945092b4883cfd61adf464cfd0a0df7582e381156e9cf26dd2ce"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dusk_01.json",
+      "sha256": "c78fa01f36f6c112bf5b109a88633a4208325a5e0d95e0836bf47828927dec03"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dusk_02.json",
+      "sha256": "f24f998533c1a88c51e6b814cc52508b752b1ca77e9b01ed7a781aa2e80bb286"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dusk_03.json",
+      "sha256": "2926e495c789f5b6e411228bbae932345265556f8890640e1ec6988ef531a4b8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dusk_04.json",
+      "sha256": "77e605e728cb7481ac82c8ac36fb5cbe7e64fe8b6cceabce2b4b3db6ccd38a34"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dusk_05.json",
+      "sha256": "f3ab5fb010cb6966b9eb1b5bb76dfc755e19b10ffc668702fd50372babf1fee8"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dusk_06.json",
+      "sha256": "68cd231d32ffce70945405b202a5f80cf21b2d1fbad44f0e44f7f7172d22b632"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dusk_07.json",
+      "sha256": "ac0f2844a2dd45cc0de26531b81b6b8467e6cbc418c7a18f3e75fd6c945b939c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dusk_08.json",
+      "sha256": "01aea2496eafa6c3e971654c74b21351cca0765f65b63323d998e2e3b9d404ca"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dawn_01.json",
+      "sha256": "e5ac42d0f6d49117cc6647a15126344b9052aaf2c8010995e460ba2222ec62fa"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dawn_02.json",
+      "sha256": "ee4cda8bb8b425458f0294c8967ebc1150dc9595c4694cfe1ea5fdb1f4bb9762"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dawn_03.json",
+      "sha256": "0502f82385e8b39b777550bf668253e9f1b1955906e6213fc93884e152b7fd0e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dawn_04.json",
+      "sha256": "463aaffbc849dc27ce1a041709a16114b73127ee190eeda6b89d21afa1670c9a"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dawn_05.json",
+      "sha256": "077e4e6340c18fb4bda08ac143943c85de32148614466fe29d183cf1c2c0a689"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dawn_06.json",
+      "sha256": "f03507e64fc1c5589984b0248592338f1799c9072107fdee82b6fc70da66a4e9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dawn_07.json",
+      "sha256": "fd6563df5b7f716a95cdf400626845b740de650a44b60a29ba88c90fd5739232"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_dawn_08.json",
+      "sha256": "a3e57f3ecf987d18037b39b2633676d7964e1ee6c872e3fc2338904bde94a73e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cold_fog_01.json",
+      "sha256": "991d9cbcc124b8c82396340b4b3221202b788b4210442bccdc8e53e379a8408d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cold_fog_02.json",
+      "sha256": "a52bf2729887900a56ecc433cde3e547bab518f871a2ac5fe45ffd805db489a0"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cold_fog_03.json",
+      "sha256": "ace2489324e1256643da2636f92a4490761d11a7927c2c600d83913ab63fba3f"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cold_fog_04.json",
+      "sha256": "c036ca9e60e34c12978cad644b43c3adb9d056c63f8c7b997568afcac991aef3"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cold_fog_05.json",
+      "sha256": "18ee21ae615d2ce613b538fbc6cac42a31f3089642caf4289d4d95680b857437"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cold_fog_06.json",
+      "sha256": "7272881625f66b2436fc847125a41ed5de6355bca09970746f59de1680bb374d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cold_fog_07.json",
+      "sha256": "d5b47bab7c8c4f67ecfe3e1cd6ddca7be608c48d404238b286019311f18db465"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_cold_fog_08.json",
+      "sha256": "3e29f622d0d7bfff78ef7b0ace3f26e865506be613a3bd45f27bd399fc6a8346"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_rainy_dusk_01.json",
+      "sha256": "0176b08f7b3a6432ca54f05ec7066c2a99dd1aaf08be9c5909c6619e190b8b1e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_rainy_dusk_02.json",
+      "sha256": "f649846fc38a2e056b80cae20072f2dd648944e082f0cdfda5eef02218a228e9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_rainy_dusk_03.json",
+      "sha256": "d0e483fba4fd0c2d058f69c41ebd7340b86a6dd77ff17ac656a0f6c1a3902c3e"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_rainy_dusk_04.json",
+      "sha256": "206a1f7f69345bc8aad9f9637ddf68277c1f5835608e0d402030c08a091438f5"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_rainy_dusk_05.json",
+      "sha256": "af6af92cd393a126a487c9be9ffd734c16383b7aee0ed7e0178bc1eaf8be4a18"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_rainy_dusk_06.json",
+      "sha256": "8a98cf1b43ab76390f577ad5ece30183c8b4c03c8080d0638538361969db988d"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_rainy_dusk_07.json",
+      "sha256": "8a1559744e78db1ea0f36d781a5178992971d7fb03d621bb7a8359330b262952"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_rainy_dusk_08.json",
+      "sha256": "19da7487f02b8142e2742b5a24cb2cf89347d6b1732267265eb07e8691819d50"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_light_01.json",
+      "sha256": "8bd852456a8ccac6c3359873f7787620dcbbdcda06261d1507467d6549559f5b"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_light_02.json",
+      "sha256": "f540a5a9f555ba67c6c41dbff0df8c4b43f951f2bb5a812e7c9e42c523a775b9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_light_03.json",
+      "sha256": "9e73580d1919dfdb922b9ef2b66a1ae3b3ca50372be78f7401391659425d5e80"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_light_04.json",
+      "sha256": "07d8092644f6c9bb2eb82942d61d179a9b0e9eae0fa24eae81a94cea48f9663b"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_light_05.json",
+      "sha256": "101e6998519c3ad5ffadc073b0ab4d203ef116890639530f92aa626fc783f891"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_light_06.json",
+      "sha256": "5c4e94bf2139ed4211305d06db3f291f567feedca71b6d4c476604a6d5851ca1"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_light_07.json",
+      "sha256": "44434bc61d24778194e9bc74e1f90a6a181e0e9d72d622643a01d3bd59e927d9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_light_08.json",
+      "sha256": "a3c3aed8f463806886593cd805c3da3f500772c87799c709e0d1959b5f99e4d5"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_heavy_01.json",
+      "sha256": "65363d8b2b2fe7e2373812f8714416da9df8367fe2197469d75fa2ebde916ff9"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_heavy_02.json",
+      "sha256": "7d27853d5ae36e93e21049c679c268c7f2e7b050ebb937e3fb9ed31059ca727b"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_heavy_03.json",
+      "sha256": "99d38392daf8378d3d2eee9c27db4b0510c96abf3bcac817b5dbe423cf568626"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_heavy_04.json",
+      "sha256": "eda9f3d271fccbfa0cceba33e7de4c55949954fffc370680795caeed158241d2"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_heavy_05.json",
+      "sha256": "49c8c90975999e8071bc7e77498640551a599141f82976f562c13d0786018b7c"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_heavy_06.json",
+      "sha256": "e110685dbbb1ddb7493c8214b2fb25b3471d7c421cd28ed7be18726343a5ece3"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_heavy_07.json",
+      "sha256": "7b74ce72426886754c0b644fa123a2cb0c3ebc7e734968eb4635794ef29fe993"
+    },
+    {
+      "file": "scenario_2a_route_01_offset_m10_snowy_heavy_08.json",
+      "sha256": "4dd9058907958e24228a0a8bc4a2eb8daa9f20730f8f29f56f4ae62d5d89785e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sunny_01.json",
+      "sha256": "08917073669ff132b53db45bcfba63047743ce4bad77bc8828e6d2c36eb1f039"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sunny_02.json",
+      "sha256": "d3515aa041f0bfa5c2e9361fbfaf5045fc51acbe88ab681f0c22e44c2cbea8c2"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sunny_03.json",
+      "sha256": "b8c3c2c94a419526ab595cbcabde0f56f6a5d0b946f3774fe0e2f8664c234c2b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sunny_04.json",
+      "sha256": "04476ae167fc9c93ee826b1ca7476ed609ae792bc83ac422c9eb7b8c4ac88370"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sunny_05.json",
+      "sha256": "1351d1f57850ef56d0b501c904b6f6247f1a83c5e726661ff70947b1d9a6348e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sunny_06.json",
+      "sha256": "9fea38f42f21a1e86dfa12e76c64c2847d6ac7b476f10a18ea4ea8617d6e9d9d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sunny_07.json",
+      "sha256": "467c0d4d14c32a078ffb78243f3219d3bf30c46106c54c63f2462c55fb7e22b8"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sunny_08.json",
+      "sha256": "e9d5d3e1ce3c83091a93b12ad4f09085cd40837018327360fd92258085c3d7f5"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cloudy_01.json",
+      "sha256": "bfa4b924ed96cd8d58940af4ccacba8af08336ca4d94d090cf05807e36bfb011"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cloudy_02.json",
+      "sha256": "16b46b9535654af93f04090efa36492447bcd378f86da520d405b815055a34f5"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cloudy_03.json",
+      "sha256": "b082bfae0611a29752ed54fc98d7ac387c99e346c0a6315b64c05ba3aa0612ec"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cloudy_04.json",
+      "sha256": "580aab9c8ed6bf3273242b572dbf6e89983b1e8c25b16fc4be9b90f4ff43e10a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cloudy_05.json",
+      "sha256": "b097a9ad21ddf527676421726029d19a44f7d3b9485aab48e01709105a863f13"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cloudy_06.json",
+      "sha256": "e96097d90e87dc56ae980de3e42344ec2736c64bdb7de3b4e16bde35c7917e5c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cloudy_07.json",
+      "sha256": "d84a68b457144a0fe89388a7be200d055d040a56d7ecf328d83575013fa303a9"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cloudy_08.json",
+      "sha256": "cb4336b38cb8c7f422c124f59b17040433d0ed8a3b6ff11cec629050a90c9fbf"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_overcast_01.json",
+      "sha256": "334508f669379084f8ff0977d3d29e9a4a04acb4bd7f9968a742f53038e0c26e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_overcast_02.json",
+      "sha256": "732ddbe9194f2075921f42d49aeaf4dec7ea2ea904f9e8cb66ebe7d2a9d388fc"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_overcast_03.json",
+      "sha256": "87550624aea2ddf13cd896282d60867fd1e2272864250441b7aad4af1a6aa36a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_overcast_04.json",
+      "sha256": "84e23250f1e64c314e3c44395087bcbcc89df8b3ba1adb7e5378b17ef769ffd6"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_overcast_05.json",
+      "sha256": "a16efa67b170c86f29a45f81086548506a55685ab7be3d7fdbab4f573d99f1e2"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_overcast_06.json",
+      "sha256": "c9e1ffdc077868b594181183d84dd0c04cddd78fb28e48c8afc62c4e51665cb2"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_overcast_07.json",
+      "sha256": "bc2dbb2fd2d145f81756e376a07c73791da0ee1518b648f40373543ea88c5cf4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_overcast_08.json",
+      "sha256": "35ae0f98b317dd43ad696b5c5c96206cd9c216c7fbe14ec427b05972ad1ae6ad"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_light_rain_01.json",
+      "sha256": "73bf25682e7ae04bbe3f277fe63735338f62246a8af50a95595a88f63f999cc1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_light_rain_02.json",
+      "sha256": "b86ef532f9e958ffd1684a772d73ec1da822291ac740cf1c9623393613308fe6"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_light_rain_03.json",
+      "sha256": "5fee5ab312e625a5c6b59f6b1d8c709e2221fddd6bce814b58d1e06199a1eacd"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_light_rain_04.json",
+      "sha256": "e57c0414545dca5c117e6da4e75398b2442e1e66515efe7abd9c4dba25708c74"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_light_rain_05.json",
+      "sha256": "ea17d72084be544c0cf9d1980445fd75738fb805a9983103d76e42729cb22245"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_light_rain_06.json",
+      "sha256": "45eeff81abf8991f0d76e5ad857478c2b6badef2006c360c2f798e6f0fa8b4e3"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_light_rain_07.json",
+      "sha256": "1c659bf88a94b28b2ae6d3e00a48a222857347031b5562b748b39e1b513f4baa"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_light_rain_08.json",
+      "sha256": "087729260e5115e0e757589f163a962676a1518e00cf8a18e6301016d1222c35"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_heavy_rain_01.json",
+      "sha256": "9ac1883b78a55d328909b1b7844c805948e24d7ef29bb1eff28edbbadf31b70a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_heavy_rain_02.json",
+      "sha256": "59e8bcd21a99daf425d53801b4423f8a260beb49bcfcc8c73ea7fab63b350835"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_heavy_rain_03.json",
+      "sha256": "c74c313303420aeda609bdad409ba926e4c08370c7eed89f0820933a2a0d8ae8"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_heavy_rain_04.json",
+      "sha256": "7d4eb47f6a2918208a63eb6fa2dc6962a1a46573481f9642815baf58d85d3360"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_heavy_rain_05.json",
+      "sha256": "2b864940d5faa3882e7886693fad268017d017102b10489aa783d192227ff9fd"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_heavy_rain_06.json",
+      "sha256": "7e186778a61d0d478ee0438fbb690ffbf515a129fb838db76e395dc82a565938"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_heavy_rain_07.json",
+      "sha256": "911702424ff5745cdc7bada7b60bedfbd1f0f2f8a0c724e585a5067571cec9a2"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_heavy_rain_08.json",
+      "sha256": "304f4d530dba568fcc82e804c122ec599726c47e5bd14a09db6c054647d52134"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_fog_01.json",
+      "sha256": "0b0f5779a6dbfe34dd9253ec7ce5b978414a79f7381a10f91e3974f46103662d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_fog_02.json",
+      "sha256": "bf734e946905fc077bdf90812bdb339e3cbfe50135933c2cab472fb447258e96"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_fog_03.json",
+      "sha256": "f39060bcfba2650461e2e7ec79df31d56678e57e1ddc3beb54834452aa50f4c4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_fog_04.json",
+      "sha256": "58fd3df111e25aaed6703ae21a337bf6277daef34201382850a93441c49e893d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_fog_05.json",
+      "sha256": "ea2f88f69dde406e476b80a7f4062e0e26190b38c9adf635ffca52c8c195f3d8"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_fog_06.json",
+      "sha256": "fa6731bfea930bc85b4798769fc2b3cc050ebb0e212214b74bdd21c0bb3312eb"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_fog_07.json",
+      "sha256": "75c1e4d490eae1ced9df127f26389455dd2075a92e512aa82e7370319bebee91"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_fog_08.json",
+      "sha256": "ee42ddc6aa715a1af6f41474d65c4db8a0e9cbad1d492ebd627e919a79a19d12"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_wind_01.json",
+      "sha256": "0e7753d7013831b00c43abf9ee34077b6870c32cb41f498f2f28c95327164e41"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_wind_02.json",
+      "sha256": "a6961418525cbf7fa7658ee0947b4ebdfe5c7bc3d61cf69c3e7096d000a96ac9"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_wind_03.json",
+      "sha256": "f4b618080ea939863533babeec38b6b38eb20d59ddf8c1343bee7bfa48b6d80f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_wind_04.json",
+      "sha256": "7324cdb9d38cd1fec6b16c8a3466d67bc36d2178ddb55a2a16fbd96420eac648"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_wind_05.json",
+      "sha256": "5e8a484f10a9334446f4b0f178ca3293a0d05063ddc92db2650d566eab0f6a69"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_wind_06.json",
+      "sha256": "0f0d0825ee5ec47238728816ad3b62caad1dc3697f5c370af2ce4d7413ceafdd"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_wind_07.json",
+      "sha256": "3342651d9407bbdc8061cdb3e7fdeb917f677f27c76082ed04b0e48b344f7086"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_wind_08.json",
+      "sha256": "f07ce36fca40404ad1b0c6f3bbe1d59b4c12e1032a07c8f6a97f0384072c47d5"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sandstorm_01.json",
+      "sha256": "0588392f97eb7f654cfc67e94c8d720a1ec7e1712f1bc525c0d6fe8447c9a337"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sandstorm_02.json",
+      "sha256": "ac7eef34c01e5c6c0ed9f8187e2596d637816e58c37bf3fc5ec07f9dadc3b38b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sandstorm_03.json",
+      "sha256": "df76a4cb6f3cd3616c0f92a6d4167bc4cfaccd33d4da06007085b1b382a357e2"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sandstorm_04.json",
+      "sha256": "6870df9f5817310a4c4c678fd6d956e2e337a7e1368c9fc69877c6673598e667"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sandstorm_05.json",
+      "sha256": "24dcf818ba9a4e993fb4d7a59325ef51e5003eb6cf8c59f4683137616e23901d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sandstorm_06.json",
+      "sha256": "c6571dce2e8f7a19a6ec11e3799f4bd1f14a9a1c4a034d062baf50404a3d2c2a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sandstorm_07.json",
+      "sha256": "2e9a8ccfc0c2b95aae98c2fbb12cda96b3b62b40f59fa0e1f603ae554200daef"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_sandstorm_08.json",
+      "sha256": "eaba2a9bdca952b836523db1a5ae55f3f30d6ed59224f742e52c51cf10ffc450"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_night_01.json",
+      "sha256": "bed2a51214d2d0f7d2b6c745b4f400cafcc69458b1fe99b71c808e8b83553de4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_night_02.json",
+      "sha256": "26371f772214937b831f9a63e2a21d12eca3cdc0d99564f64f4cee2bba82cb36"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_night_03.json",
+      "sha256": "b34dac1c3ed118c78563b8779a91fa168985a91e9f988f593c2c25f75d66b315"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_night_04.json",
+      "sha256": "8b74e4543004004f0c20716a1e0ec651f59afaca4c3edcc15e526fb1762b2ef1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_night_05.json",
+      "sha256": "af2db6cfc076ad50369712b6da497914ab564062362375d97441d90b850099ad"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_night_06.json",
+      "sha256": "f6f1b9afce41a9f5aabe1c18707088e42a81b0dd19c6b9df49f7044aeb2046df"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_night_07.json",
+      "sha256": "1abf02074a8f1b92dfe48d070932182ac70792d76055076acb2cafa3b0f2549f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_night_08.json",
+      "sha256": "8fad06135f0847928a162b643be237174e34b97b3672c08d77097b6c38466272"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dusk_01.json",
+      "sha256": "3d1b1314e565cc6566af87fbfe0e765a0d27c3e520fa21bf1359c579d05b5104"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dusk_02.json",
+      "sha256": "9a546a157edd4c94670a6da82d2be8eb47d33cad82a58780463ddd384b61611c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dusk_03.json",
+      "sha256": "ea42e19b011e962f48727a956293bb3851548183a54a70a67e65a302b828ac98"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dusk_04.json",
+      "sha256": "09276e08a276bd7b8100c896feece23824b25a56e8274807c615f93dc3feb89f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dusk_05.json",
+      "sha256": "a8b9f8ec4f21f5c73e673e2d97fb659dc60914ae3414f7b65f2498c0f606a19b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dusk_06.json",
+      "sha256": "514f947f219295b130b7081f780eeec001a215eaaf5962e2c584fbab94101f32"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dusk_07.json",
+      "sha256": "d678355392558431d3b6b20e84472715d824c77cccaab327f7ab645dd4999f31"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dusk_08.json",
+      "sha256": "37b50503bc87dea88dd0b68e62490ef85b1a5fd85c1e6f622a89af1e6b6bc633"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dawn_01.json",
+      "sha256": "f85b582794117545a82cd4a12c418777b3345833a7f9f896cbab9f7aa5517996"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dawn_02.json",
+      "sha256": "b00fe186d03d2ab8b37c210d4f9d6400b89bcc7488257941a8356f153a08b931"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dawn_03.json",
+      "sha256": "f7af1f5bb04cedfc9277de3ceb3ddd75013d0fe249726de0923697423b9c0f12"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dawn_04.json",
+      "sha256": "25a13d7f728c6de3f33a7c10026a23d6f60c9fd26797ad9b0cbd0787802a6210"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dawn_05.json",
+      "sha256": "b341b63185699e2790102129607e678dacd4fd89dfa9f5fb49d2f330105d95a3"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dawn_06.json",
+      "sha256": "0d15aadf2b38a379304f9087f893c34f9374d1cb82306a1895e8672a575d8053"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dawn_07.json",
+      "sha256": "dbcdca81d85db519be73e8ec06cb7f4bb56badaa28881726c0d47a0585057c9f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_dawn_08.json",
+      "sha256": "4c470781e47ffe84e76422fa391ee1857e2b40d7179fa66885803620bfff17fe"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cold_fog_01.json",
+      "sha256": "1b9414e617bcd936c27a700b5ea0cc5c97444d0075b2b500a3768240701809ac"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cold_fog_02.json",
+      "sha256": "ffe0dc7d889503d2db138a26b48d15f9fc55952475e9ac964b4200ee0c829d73"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cold_fog_03.json",
+      "sha256": "c94f31a65a4bc55a1c273ee326edc59af92cf646f70ff7636809a4d195e19c07"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cold_fog_04.json",
+      "sha256": "ae10d23effa4023c4059df87103c65e21960e05e1a0dd86ab1f7f1126a217393"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cold_fog_05.json",
+      "sha256": "d4017baf70eaea578a492a055956b5d3d7d6f62670cacc240a849e0204d88704"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cold_fog_06.json",
+      "sha256": "c2e568f08b19bc2949f7ae1d42168f49e6958e282fedb8321e710aab2090d29c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cold_fog_07.json",
+      "sha256": "60faeca62085b8874199874b4aab881f470e13d65151ffe1d47ac1ff5a65e584"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_cold_fog_08.json",
+      "sha256": "bb4cc1a4ebcfbba18943e7c81404f62d6a233473efe6d37c3fa7ab07c0609f02"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_rainy_dusk_01.json",
+      "sha256": "ded554882daa7a470b99af17e946852997bb609396071caa4a3b6d186613a0a8"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_rainy_dusk_02.json",
+      "sha256": "b937bd215c5ae5795c045126c19717d4bceecdefa8cf01e72daba37332a4805d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_rainy_dusk_03.json",
+      "sha256": "3c500a9c47c35003eca38c83658d630fd12565edf6231d930f817b058109f9a2"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_rainy_dusk_04.json",
+      "sha256": "f1cc595803934d66f257b594384ac8506fee979ded6f067a227f658cee02a5a1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_rainy_dusk_05.json",
+      "sha256": "4040899c87704aa7081f802f9ce75eab459105ad63a5e9902a117f5e39d91407"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_rainy_dusk_06.json",
+      "sha256": "e663f0df42df83874238457d5f5e2211991975ad1fc3da7f097f217265ce9297"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_rainy_dusk_07.json",
+      "sha256": "5d837da95084d983c2835e4b80ad228a95a7ce77d2c65e6c7d34bb60eeed144e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_rainy_dusk_08.json",
+      "sha256": "919686d8159c18d41e78fa375e671c490a999a2ff0c8d84ea7156993d69dd015"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_light_01.json",
+      "sha256": "00af57fcc2ed79f02446e9c3d13fd562c57bf7d96c943cdf6ea047437a06dc23"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_light_02.json",
+      "sha256": "286b5520360168803ab5ae5f8e65cddd7112dbda097ade517ecb86f7c8844821"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_light_03.json",
+      "sha256": "84d72c961a6ffd4430e2c4f4ee66c7cf15ccc9d1a5dd1d97eef12c2e3eed357a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_light_04.json",
+      "sha256": "d262df984cc22e64be641793f53ecce439ae189d28dbff16c1806ea9d2daa17d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_light_05.json",
+      "sha256": "30bfd6d0f469323d796a27dcc23f89a3090537dc5a90e8e166ae7e479b232d13"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_light_06.json",
+      "sha256": "052cdd8ab82550a59afc4b845d741e76f128f6dc2f615cc5cdaedb6c33f7ab12"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_light_07.json",
+      "sha256": "c59fa13a8ac9c5bc3fa3dca7d79f61fa0768eb0476dbef883e0421404196cccd"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_light_08.json",
+      "sha256": "a2a561313b266c1be3b690529fe0b1eca4d23b152a4b2c2dc5ac3ae6a32d2230"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_heavy_01.json",
+      "sha256": "f2c84ee33278e165356066dc70f6403df1326f2d24a89fc248dc26998c106a04"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_heavy_02.json",
+      "sha256": "6672d2d7c64d0340cd17e2f22551b97ba82df63a1da35d331d22e3821bf401e8"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_heavy_03.json",
+      "sha256": "5a03e99a0e6d4e836d42a0fe03f9659c9b12e0da30cea9e1e30ac49a5b6afb26"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_heavy_04.json",
+      "sha256": "64d70d7120906f64820de3ea25a951fc5129811824c83cfb86d178bd7e24f3b4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_heavy_05.json",
+      "sha256": "5865a4c0d7cdee595d476f235e4acae99db01e599d99148696f288f048e10fca"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_heavy_06.json",
+      "sha256": "0ea5094d49620fde07cc5e9931e7e562cde373358ac53e7d95229d7919776f4e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_heavy_07.json",
+      "sha256": "c9dff38c4f52528759bd22526f904f5d9231e0c05b36eadc34b77b4aaf8e012e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p10_snowy_heavy_08.json",
+      "sha256": "34047710ba6f7163b71aa0d88f82657a69e78728d3fa99fbdf20ab33939327db"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sunny_01.json",
+      "sha256": "29c5dcba782c6a050ebffc8c321eb5a337bc8fca1787e9aed98045de2a4bda04"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sunny_02.json",
+      "sha256": "da7c03cb41767be842497d6c494c7cfaf7834651a67a0ccf301895abc7d7fbaf"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sunny_03.json",
+      "sha256": "be78fd01e305e56b72177dd2e1c74f780f07d977703963f2b00862adec0de484"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sunny_04.json",
+      "sha256": "4903a8fa1977a70d4911ce822d5723f0f148d2f0a616be752c9aeeae67535dd1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sunny_05.json",
+      "sha256": "ec26cbc0939b2e214b88d14c70beed56c807d098ef1ca499e38028faf79877d9"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sunny_06.json",
+      "sha256": "4d1de2eb4c330719753ac52a66161a36084887b5a497a980701134cd7f3dbe47"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sunny_07.json",
+      "sha256": "ec1479f7fa5fb89a3e90210c3c6d78d72f97327223cf8f872067e4fc66ba6564"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sunny_08.json",
+      "sha256": "b2b32a622893d9427435fdc935d182fe5edfe857d261cf8433c405188f31e0f3"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cloudy_01.json",
+      "sha256": "2da6555129dc8693a22da08b40c6df896973a34090429e82dac77e668212b775"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cloudy_02.json",
+      "sha256": "542608ddbf7ab169fecd4ae9a1e4af99d8c84f714f11efdf10499bbf4c96a3d6"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cloudy_03.json",
+      "sha256": "249364f18106cb007d9f3c0a5e0bf7881764ae6915882c0b306265734bcf775f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cloudy_04.json",
+      "sha256": "63e5c49971b509331ffb33727e89a1010b68334e066dd18518201230615847fe"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cloudy_05.json",
+      "sha256": "f88fed5a1aaef421c910f64977cdc6d8c55975b1c09ece97204559560bf736a1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cloudy_06.json",
+      "sha256": "c400d066927a2838fdb5b112745c250ab6e63adc2d5e88c544b9c7ca9f921e6f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cloudy_07.json",
+      "sha256": "7111d4bf4fa64af63e1896b238d3b8b63ad2cd571376a9921e0905555fa60323"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cloudy_08.json",
+      "sha256": "317fb7a3f3e27f95b468a0e6b9cb4116ef0389546385cd2de6821f93d1e9ad16"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_overcast_01.json",
+      "sha256": "0e1afda19961f9b059ae45adb519513bb0d3f747f986f0b5951252eb39c80b00"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_overcast_02.json",
+      "sha256": "7efc41a4943448c713668e19e6997cd5f320f5666ce452b76a494beedd021fa9"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_overcast_03.json",
+      "sha256": "a35527072f619ce02aba18c2c34096f331fd6c510bb004d917224ff7dc7390b4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_overcast_04.json",
+      "sha256": "88965ce8b84799ee987cf6b87d60ae1709cde437096bcf5ecc5b7b130dee3aab"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_overcast_05.json",
+      "sha256": "f404e780bc895bdd78ea4b413b6b5b14cdd732fe074e538369ebb08335a41396"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_overcast_06.json",
+      "sha256": "3b07bcff7d60f74d475b605169a31d654e08aa4a65a21ee15568dc229e7dd44d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_overcast_07.json",
+      "sha256": "fe20f21e85cd8362d0ff95d6219fbc4fcc92f8a0e70250a783538128684fc38d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_overcast_08.json",
+      "sha256": "96ef16e8b7bec9fba531d6f60979fead6bd25195bb3853c9cbb84e05a3ab887d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_light_rain_01.json",
+      "sha256": "2aab1cbb471b485966cd7c4d7c5e5a80a22a965f40b841880d4360c8053ea1bb"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_light_rain_02.json",
+      "sha256": "f67ff671aeae231860acd115461e344d423ddc1e08d36a53cb57c8119a324e04"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_light_rain_03.json",
+      "sha256": "2bb05fd9a04a65e385f65967ababde0ce52287968fe5672e415e7cb99db372d4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_light_rain_04.json",
+      "sha256": "17fd77c50e91765dec53b31375e47701f694fb4ce152f4555321675ea9dd9351"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_light_rain_05.json",
+      "sha256": "a3ba3163a3f96c93c45128a0b1e763e1ef347d3e8136985bf03f415392ddbdf2"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_light_rain_06.json",
+      "sha256": "050883be4bc276edd1b5551197ec80cdfdbc0dacb7cbc2288a718096a6067a52"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_light_rain_07.json",
+      "sha256": "4e8492189958b19e18922c8b8d89c8355ecc7d5e1fa4219d9a374a6950d2c7f2"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_light_rain_08.json",
+      "sha256": "91464a26b6a142bcde234bb728456cb50f7da7bb0116552713a0ec468d4779b5"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_heavy_rain_01.json",
+      "sha256": "b058f0ba5f30c82d8c3be51b2b461720b8dff47dc3c17b6ccbd83ce98fec4e91"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_heavy_rain_02.json",
+      "sha256": "0ccf4a19cb405f11638146db211b8dfefcf8445cab112dfda8c7e2dce679e77f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_heavy_rain_03.json",
+      "sha256": "a473088864a1220e6526f11a69dd5152a329b0685bd7364c648c67fc5944941a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_heavy_rain_04.json",
+      "sha256": "b4132b832e77f736f8783888b01f900088c78ffa42ab7c6ba5db79666a59093b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_heavy_rain_05.json",
+      "sha256": "1bfba8f41785de7c23b1af799089609fe680637295b4d87a9c5c825dc06524f7"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_heavy_rain_06.json",
+      "sha256": "a2d2e73c8fd2f0329f825be92927ab9c00359b38797ab06d3cf3901b9b973de7"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_heavy_rain_07.json",
+      "sha256": "5f94bf5683cfd6f1b44e3dda6c8aae3ea919dbca420879356165406434c29909"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_heavy_rain_08.json",
+      "sha256": "09082735b191783203ea048a57e96036ddfdd44eb3d66e17be85475910a56057"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_fog_01.json",
+      "sha256": "ccd6c169719ba4ee133dddf647cc5964fd310fd809bdb2382fb8ea61d16d7014"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_fog_02.json",
+      "sha256": "0b363148f0bd091f3abfe94b9c4675eb3c4b7ebcbc3b04c73bc12b7b0b9ad488"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_fog_03.json",
+      "sha256": "7f38509806115b116f06d830d5720e08e1d528f5b556266c9d1bb484f6d0d58c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_fog_04.json",
+      "sha256": "55d3b1a36679001729fab5add5adba67dce671423999cdfc03dcfadf22cca511"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_fog_05.json",
+      "sha256": "0e7d33a629a7c73a594c83cad43ceb96627a2c78d6fbe4e1f09073d8f9a2fd48"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_fog_06.json",
+      "sha256": "3401b11f14169cbaf6e0581e0a2bf43e456b4ce75829c374704982c0ece93cf4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_fog_07.json",
+      "sha256": "7b274a0b075753c5ff12536a6f071c38df5253212883bf876cedb59e79487db1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_fog_08.json",
+      "sha256": "ea7bbb0d633e2962ce46ea227d6e461560c290a098f3c144d565a2424c5912f9"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_wind_01.json",
+      "sha256": "1c0542cc8fa5ed6d74b6aebd6d3191cd6c4727a902dc70f3cba1657c1c79e8f6"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_wind_02.json",
+      "sha256": "1da48ca0c2c85d2b8ae7ea5cfc54c771ef622c43848584e399b66fef52976ede"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_wind_03.json",
+      "sha256": "7727ec0b72b68671d3d8892c358594418cc7210f4359c8dd2648a90b60c3afe4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_wind_04.json",
+      "sha256": "ac83e7e0e383441277e981018fe47a225fbd755eecde59582895dc580c7fabf1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_wind_05.json",
+      "sha256": "9be700d10c697938c18a13e1a891012e0a1c61305daf4de2fff8fda9dca91d82"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_wind_06.json",
+      "sha256": "7e66a071d6024ac52a9a0496e406ecc116b67b9f506d21f8705db41d4816282c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_wind_07.json",
+      "sha256": "a825a5c32fc5e6e88c11cea3dffb378c5bfab21bbe1c65450260287c234f4983"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_wind_08.json",
+      "sha256": "17defac79992a4b998998c71370f4dbe174f5fa91be38dbb97e73b27c055cf66"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sandstorm_01.json",
+      "sha256": "49308fe15174454410525b82cb7e4bbc5926601953a913bd3ac1ceb91788b6e9"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sandstorm_02.json",
+      "sha256": "031d699c3566468936750a9a918c002aecf4ef04ce2cb184875939747d6420b6"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sandstorm_03.json",
+      "sha256": "85ca821ab4ab3ecd5deb67341a7a39103777c61cd79bc001f38450cec19ab251"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sandstorm_04.json",
+      "sha256": "b2dec019ece298136e8bc387ab49495beed6ebf34eb6395c2eb100722a2be5e9"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sandstorm_05.json",
+      "sha256": "edc8e11ad8133c49379f354358cd06f81b5e59f6a5ce3a3708c2440331e257f8"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sandstorm_06.json",
+      "sha256": "55765df357cd535c4cf125c627bd364e1ca825b564b4bbcf47131c529f8df46c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sandstorm_07.json",
+      "sha256": "f19d4105ffdaeb0594ccc20439f86638ff4dfd2e141a2757b74ed1945f61bb52"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_sandstorm_08.json",
+      "sha256": "6ec9b89651c20f7a03df7b0e113116e629125e4697b00a68b9b16e43a4201425"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_night_01.json",
+      "sha256": "a09e123dd98a8e71c1b1ea8ab9162dda8a9923599b1729d14f27e547f05551df"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_night_02.json",
+      "sha256": "e2e8a446256a4793e61793f8762846c0b71eae9952f435bb28e41841107470a6"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_night_03.json",
+      "sha256": "3a8d01e475cf094d790edf6314a61bffde67dfa44441cb2228416d5938391909"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_night_04.json",
+      "sha256": "923a042add5428f654cd8b2fc2c14c970c1ba866277649698f0252d94aa576fc"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_night_05.json",
+      "sha256": "f098bbb5428c42b21f9d643f65f880f43a95216f3c6a3ab69ab40ccffab445f5"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_night_06.json",
+      "sha256": "3f27f76621d0d97ddbc12897b90199a54839724f8cae806961a3298e5d6798be"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_night_07.json",
+      "sha256": "a1e0ef758a34e4c0b338eb11ff0b043ae430f2ddfd17082d4b3f67513353745d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_night_08.json",
+      "sha256": "7445a598ac9e366abedd99068a2869afd029a68b35b8e2140e83fe607c937ced"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dusk_01.json",
+      "sha256": "f9fa554e62adc1772c27f4deed18d42fb394a52cb226b9d4617f5da16ce1d072"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dusk_02.json",
+      "sha256": "493901cf7bbaadd26daa9eaaf12047f7276914e33b1dc2ee158d9c592edf4f9f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dusk_03.json",
+      "sha256": "4f519e33df4f42031aa9abb2b82ce6aa2fc4e6c194ba8213dfb7080d73acb0cd"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dusk_04.json",
+      "sha256": "65ef0d4ca8f8512a87cb61f19ab9d765668c6c3e1192daea1707226ad1a29f39"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dusk_05.json",
+      "sha256": "0d22b4238f57f6c6d019e0c35d06dbfcaa1758d4c955fd81a985a320e294d98b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dusk_06.json",
+      "sha256": "e583bcd889dc1b47b54c9fec8b5177b5d33b94f63eb2258e301a653a13b8d43e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dusk_07.json",
+      "sha256": "cf72f47eb18dddf6e3ee8202c2e54246c83ab66645bd58252efac61c0b778d19"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dusk_08.json",
+      "sha256": "c50c4ed14d82fd79b2e07c60b205abb5ee6d1fbb9bfbaf7d08dda765d1e39d25"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dawn_01.json",
+      "sha256": "c6fbfb6cdefa572b4c139fca316cf8ad55992ae68b02d3c154da9d952cf173fe"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dawn_02.json",
+      "sha256": "793fa1a0a6e20426d03b645afe6d5272883d5e4769880f4043d440b69d3afcb3"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dawn_03.json",
+      "sha256": "5292344b9d47f52139f65ece9bec984f1c7286a3f4f51419f6300afe2273bb9a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dawn_04.json",
+      "sha256": "685cac7430252c7d6450aebbe413122777a9dba2b0df0e95905df3adff933861"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dawn_05.json",
+      "sha256": "97c284328eba59d9bcbb4c3152f48fdb9bb651cbb1f95df6e16b2bbf6bed9f98"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dawn_06.json",
+      "sha256": "917ab31e954f8ecd4d4b8915162ff7739772df6c4417da304271a95b8e9c8ade"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dawn_07.json",
+      "sha256": "49f323ce01a5636306c8df4506459836d075058f0ba4fd0a821c953acd156f3c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_dawn_08.json",
+      "sha256": "9de4ec796ec4a12325e70c14e8180ae49a3a012128d5dbf2bcb9a6bd1eb14a85"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cold_fog_01.json",
+      "sha256": "c93a3ceee91abb411bad98044425405cd57d5998583103ca8c48cbe5cf2cce1b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cold_fog_02.json",
+      "sha256": "1d0cb283c3b2b580f7e07ca79c8d476dbf86c910e0b631e3cb822695ba3a4261"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cold_fog_03.json",
+      "sha256": "14c64b698e44ad013e2d4db2b4a1ec98b417c98a0801075826fb129643a4ae8f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cold_fog_04.json",
+      "sha256": "94103ec9c0d07194f58ac7b14d97dad3ed7e9c9c24740b6c648958f0d0bd3690"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cold_fog_05.json",
+      "sha256": "f5be2760032a4ae3b60f4b2a17356260011c1f6ee00b5f2d4ab8958a7b31af6f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cold_fog_06.json",
+      "sha256": "d812645130fdfd7fb4f57c9153ccd6c63f9783e1e51dbce92e58a0982a21f931"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cold_fog_07.json",
+      "sha256": "917a22926d891bab20753f2ce96cd7cafb8f2a69228c3121bad3f0b546d51be1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_cold_fog_08.json",
+      "sha256": "29e711485c64d2396f4735871d2835a60c78fb4e3640659a5d1d0b926c21d086"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_rainy_dusk_01.json",
+      "sha256": "e34f06c4d7cc2e77b968d8741e4e5626ff6ceb5cafed5243219f3817db9c01a3"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_rainy_dusk_02.json",
+      "sha256": "7cd5b25705c2e3ddb228e036d7c6efc6ac8993e633cf63d4a088876dcd0f8619"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_rainy_dusk_03.json",
+      "sha256": "7aee4d088aa8483e3dce4eb0f2a3491c300edc4322e5d1892faf424167bf6284"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_rainy_dusk_04.json",
+      "sha256": "3a078627aab6f909a17f6b405be7c754004d67ce54e7f25959b2de2e5294a1d1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_rainy_dusk_05.json",
+      "sha256": "909af4b48cde7ac28ed59ae83381b24321383d68d50d797606800bec1c612baa"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_rainy_dusk_06.json",
+      "sha256": "ca824b5c3c4ee1e13f56944f622978bd7eafcdd4951a9bcc7738790e5fd6308f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_rainy_dusk_07.json",
+      "sha256": "85c55f57b9d39384c81a3efe7078922a241da3c7686776d620f3996ba7f29068"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_rainy_dusk_08.json",
+      "sha256": "ae4593c21c602663e92b8f3ba60795b7d9ff75f3528a85bf2b9e45ad9b691f3a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_light_01.json",
+      "sha256": "8993e99dc99736b507d93e32808c296f8ab9fb3e6eadc2fb10260a87f3df9719"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_light_02.json",
+      "sha256": "f207580f95faa8e2615c8cdee88d8a04ac72670c1339e20d244a9c5527514373"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_light_03.json",
+      "sha256": "8c209870cac07d279d0ed208013adad6deb6c9389639852d7c8fd6b0b589af16"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_light_04.json",
+      "sha256": "bdb9933e8dbca62fd41e6918542ddf574ef73fbf3937f54402eee624e82db727"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_light_05.json",
+      "sha256": "085118bc21a40108698d1a7ba003fcdbcc1b7664ecc81694f0f2fc4c8b33b016"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_light_06.json",
+      "sha256": "5cbe3981642030df95cfe870223d4ede943baef7015911bd5d08a546bcdf8bab"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_light_07.json",
+      "sha256": "605be73d9ecf7a1685480058f8f6a36482f3dbcd898c2ad8360a9abec956696b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_light_08.json",
+      "sha256": "a91e4dec877d977d5baf4d85d8e7d5bf727d07dbdc3395c18cc43ef3198238d8"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_heavy_01.json",
+      "sha256": "ba1bba66b7243bc70348eabc8f77fabd93019f9ce367deb304c0db9fde8a1c79"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_heavy_02.json",
+      "sha256": "375ec39540fd742260d9f90ef1d394c5746c97b3097c02383470212bfdc99c27"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_heavy_03.json",
+      "sha256": "31982b43850153ef049b4743299d42e1ed72bf9644dff40de44b60ceefb9d674"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_heavy_04.json",
+      "sha256": "ddf508aae9f5c86fa9e26bd32192f98617729fe40f3b6551f2de3e9a44749160"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_heavy_05.json",
+      "sha256": "a7a37f1b2e41d6e3eda2e9de0084220ad1a498f4eca62deadaadd47516ca064a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_heavy_06.json",
+      "sha256": "bbbb6a0c585b2192ffb1359892e27be54583a3a7770c2c4c9f606bb0f6475694"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_heavy_07.json",
+      "sha256": "f20f78f675848e340476b7910d22c7f2a7fb6e6ed49f66ff95e2d59f70392634"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_p0_snowy_heavy_08.json",
+      "sha256": "1bf1897225fe9859522ba3e83f11a5a4f6c90e60e08e24c12438ab0e2cc7975b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sunny_01.json",
+      "sha256": "7f637f52a79be0e45d24bb564af5ec16c5f8cbccebcbf18f99e4feaa676f1edf"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sunny_02.json",
+      "sha256": "c135fb5096107a6ee4ff30b7a99a1218251f0e0c7161f3a24da458425582b275"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sunny_03.json",
+      "sha256": "d9cf6fba1e8ba855915228cbf12deedcc1b0e3b5d20b778322bea6bf33850a45"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sunny_04.json",
+      "sha256": "d5d23d93996e0fb38e54eef65c5667286a91a5f60112db63e095604bf186b7d6"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sunny_05.json",
+      "sha256": "c94dc864ea7b38b277c26df5586cf1bd06f0b442acc73643853de32ae4852f92"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sunny_06.json",
+      "sha256": "c817c70138bd50edc3135ca714ab97ed22df55f9b98ffd101ff42e0b41845b75"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sunny_07.json",
+      "sha256": "cf0a1869e4da9619947496e8359385b0501af7efb755248941138d0ee1ca55bf"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sunny_08.json",
+      "sha256": "284423fccd04769a94b41e6788f35de7aa521e64f47d0f9686c4dd03627c9b72"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cloudy_01.json",
+      "sha256": "ee9fa2c19130a6f6f5524cd664ccb7a04b00a52d37e57828010f50c4b51d5ea7"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cloudy_02.json",
+      "sha256": "6634aa56de921154c3a9a5eaee76ccacb0e42815bc06ac3d3e8de01eb29a7a24"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cloudy_03.json",
+      "sha256": "64b5cd79daa220b6b752b1f93900a9de7d37d34c8fd18d5cf3c64535788a8a43"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cloudy_04.json",
+      "sha256": "c379e7f9e78f93ac319866bd42e436b5d20c3440ae990035fca39fbc63ca1a8c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cloudy_05.json",
+      "sha256": "f1b3be5bbe4552d884d7f519610733daffc0a16a5a93963628e597ce26c3985f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cloudy_06.json",
+      "sha256": "961cd3d30e57d5bca8c24c11733a84055c29ea82b9c01ff668974a70b2ba7ee7"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cloudy_07.json",
+      "sha256": "d2923722030d499d443489aa81fd68302b953e2fab8c227a7345149a6f39f86f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cloudy_08.json",
+      "sha256": "f9fb2f786a0f3b0e7b7111626ebb490473a5784ae7b5023e7c7376518f5d7234"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_overcast_01.json",
+      "sha256": "0b3cc49fb8cf6998ff5c14c12aa30be730465f658f5866a6ca4eff5f197f8e70"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_overcast_02.json",
+      "sha256": "c0176d12b8e08739091e5b337f258d733ee2784e1cc5a136bdcf3c45e50ba76c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_overcast_03.json",
+      "sha256": "36a07782c5ff08e2c6d0eed2afaf9b1dfc95f573cb8002663b8fb9a612656a51"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_overcast_04.json",
+      "sha256": "bc3bcf8a93d7bced7280bf5c58d31e0de4770514d7b0a15565f224e457e7fa90"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_overcast_05.json",
+      "sha256": "73ac7d5caf8295024bac17870fa4850292903badbc735171a77b68e395212e07"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_overcast_06.json",
+      "sha256": "73548c3657b2241f3cdce1dd96124bc586cbc924d6dc860e15d6ce2fd0150918"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_overcast_07.json",
+      "sha256": "d723bc6dfa1615f53bf8541afd902a7c3fa2bccb31b14f969d90a615344881c1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_overcast_08.json",
+      "sha256": "8e39ac1bfdce5ff5d670c1c21b72078626b8710b0abb42ae45b695780b1fa641"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_light_rain_01.json",
+      "sha256": "6d373c3ce780ae335edf64b9d422b71c3fc340c04959b69cf4c9dda877dc03ae"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_light_rain_02.json",
+      "sha256": "04ceb7ab87058be45895215b5d0d04bca04722d236609e7001f88a703c300532"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_light_rain_03.json",
+      "sha256": "4c4ef39934021e78ef32783cf5128d4836d1d17ca492cd963988dab1b6a85d54"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_light_rain_04.json",
+      "sha256": "897dfbc2906d4e44a58142dc6d02530bdcd68c9b7ec7fb226a4fc4b6e2fc614a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_light_rain_05.json",
+      "sha256": "00b8a4a050fbfc689fe51b994967c2b0a51aa13f21faaa7961f2589e3b377fe2"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_light_rain_06.json",
+      "sha256": "78a9992156ffc5025921d075dd05b2d40c4bfbc5a8159b4da42fcd55a79ae354"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_light_rain_07.json",
+      "sha256": "2079d91c1377d0ff37da367bdcdd0ce09b666d0ea16cd2bb8993c52660c6a174"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_light_rain_08.json",
+      "sha256": "5eddfe39e9ce373d30681acac87aea30e9bcd04209102d6a528c6822bf4585dc"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_heavy_rain_01.json",
+      "sha256": "b24c57139e52f007f05975c24c362472ce9ce9c19af6d9fed7f958cca8dfd7d7"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_heavy_rain_02.json",
+      "sha256": "abd4a35e34262e1fdc150c72f9defb9256655dfdebdffa333a24fd47d4487f2e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_heavy_rain_03.json",
+      "sha256": "519764918f520aa8ba906a4f8eb6e3d304a7bc733a1bb2946179ef16b8cb3a50"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_heavy_rain_04.json",
+      "sha256": "4b1b4f9914bf4116960fe8922f2a61e10252aa527bf61a222dc748fe9513d050"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_heavy_rain_05.json",
+      "sha256": "7daccf3f04e37813f2973047b83bdccf633dd0a7624f92f3301df4b85b983a9f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_heavy_rain_06.json",
+      "sha256": "26190bfff5514c1244caf1f3677dd554d6bcb0e4377dbe5b644ff8c252e85e6a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_heavy_rain_07.json",
+      "sha256": "8b2bf2b38338ef1e771cce43fdd1b10e78ec52489d2a69f96e8f02e06f05eb64"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_heavy_rain_08.json",
+      "sha256": "e78eea6f3acb0b9bb83d16ece63ac53a85a0e1168deda9a2cef6a2af995ae192"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_fog_01.json",
+      "sha256": "95c28ed28fbdbc831a389dfa7f7ae2a32dd2e3f5de523600d8fafff1dbcb34ca"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_fog_02.json",
+      "sha256": "e27c322636d76f6b7a1ae4a5ed4b97a838acf316514927f2d731f52f6167121d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_fog_03.json",
+      "sha256": "aa0b672c016b941072836a57dae65ca2d7cca007ee76a1636f299c222955438a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_fog_04.json",
+      "sha256": "9812e64f7a333b3501d2a169391cf4fe60c33732a5340ceef9a4f7adec855ba1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_fog_05.json",
+      "sha256": "e0817ca7837c5d2907bd71f384ca06c94f99d956edf3d3c5d08b48c35d2483ea"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_fog_06.json",
+      "sha256": "de206258a4232a40c61620302e34d02bad1c36095b378b2e5c692d31059aafe0"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_fog_07.json",
+      "sha256": "cb4ae2e52fc635f479db00858054cdc366bab7876310f1724e6a10d2110f2aa5"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_fog_08.json",
+      "sha256": "b0328e4e9163cdf4a3cadf78c5425654ff703bf058f16a2094c398552c8253c7"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_wind_01.json",
+      "sha256": "c6cef19cb14bcc9e1c2b143fecf0f879640336a911875a939aaa919e9b44a30b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_wind_02.json",
+      "sha256": "b6ec498d56038021617f4d8297a8db820408c95d701fd45301b3b23fa77595aa"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_wind_03.json",
+      "sha256": "ca45afa85c4e60950d0ffdaf3d0975070a2b1f6528e5f9cbe09fee0e8d987307"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_wind_04.json",
+      "sha256": "8a2d4119728cac600b0f42217a64d45cef4e2c1783154e5aa08647db93f8af13"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_wind_05.json",
+      "sha256": "82022e338798429d769921ccabe9f2883365990d224a10800ea7382172ce20b0"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_wind_06.json",
+      "sha256": "2139ef8b61b91893b2efc65abf1435e23d4d99add1b547259aed7f697b0ad5f0"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_wind_07.json",
+      "sha256": "3de95c03fde6d8190397e68ba422e6a52fc4faf76476afaef813b852b4b051c6"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_wind_08.json",
+      "sha256": "8b99a5ab4d704f9a5b8d257d1eb37c67659fa01ec0c07a62e7dbf7fdaece8cd8"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sandstorm_01.json",
+      "sha256": "be2530c4f6fffd672c8be7afb3845b7c75a7b92001e5b98d44e0a6b9c3951a94"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sandstorm_02.json",
+      "sha256": "a0cd03c5a598ec642018a406d4ccfac1c62232566286ecae6b8ca44e7a2815ed"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sandstorm_03.json",
+      "sha256": "7faa5d7179af6dea634b54b3a777d929dfb4357f012a7068c47959a4d5b831ce"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sandstorm_04.json",
+      "sha256": "59fdcee0dcb60c8ba6e072654ea991b97e557ffb390e7b407db7670558005983"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sandstorm_05.json",
+      "sha256": "64539c328e438478c10073ee5ff1d5801ef62b186f0f3f7b8fcd8291c79a32a8"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sandstorm_06.json",
+      "sha256": "667ea6ca6777f306fc48f5e0d6b7fd758fcaa04eeab73267e204602f163b876e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sandstorm_07.json",
+      "sha256": "a95800957d48f0100e7c24047d8256829eec344a72d1a515a36fef558d1bac89"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_sandstorm_08.json",
+      "sha256": "e4bc4986ce25a60b6344a24e246fc438a420e744ae309fcbb46f8c49bd8245da"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_night_01.json",
+      "sha256": "c1e8f35e24cde34fcf7ffdb7a88431b98ec05a3d9ce96e755b700a68e480b16e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_night_02.json",
+      "sha256": "19832f41e5c26dfa394a283c7e73290cd6c4d44f2801acc08c64aef700999157"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_night_03.json",
+      "sha256": "17ba21400a3d41b024ca4adee28fbedeafc5eef726dabc98355d6d46b7db9c6e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_night_04.json",
+      "sha256": "cb6a3e2d05c9e7a9005d0b301a15ac40d4d46d0af1b99cf277c3d06de739d567"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_night_05.json",
+      "sha256": "28f83786af474cc46826ebbfe1a0a414c928c6a3d1bf1e9330ac962ce6c1ea7a"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_night_06.json",
+      "sha256": "4a6459893ab2bd1db74a8cf6dd12eb8e5073afc45b1aa8fc359c6f7322178a5c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_night_07.json",
+      "sha256": "1a60099720378704e83b8e81cf8aa8c793d15a0bea14dc2253a72bcc8a9cd6e4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_night_08.json",
+      "sha256": "c8a3730db0e233a54dcd6b33f8477b919c5a8d7779ecd7b543b4ed1f46d1aa89"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dusk_01.json",
+      "sha256": "fda6c3675a75bf688700ab9ba74ac47b964344b200fb5ead9ecc02be83b3f70e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dusk_02.json",
+      "sha256": "55c098f17f8e7e01afa6aaf2ad9d0967e5c8dd9b4ab0e3560cd9fda89352ad1e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dusk_03.json",
+      "sha256": "d5992a92c9bb4f55ae59063c6585fbcd3448cfdddba7d83631b7208a72a64436"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dusk_04.json",
+      "sha256": "1fb269bcdc8f3e0e6b7042ae231a079b593c4424d94cb7d40e58035b155b24fc"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dusk_05.json",
+      "sha256": "e973a9c803a6d643036cd034b30cc4b5ad018da7376a0c5d92fcb8fff8181e71"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dusk_06.json",
+      "sha256": "c25088a6a39727224ac9122953396f0ceec370d7e96d5e8871555b77319063db"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dusk_07.json",
+      "sha256": "4798e978c2adb6eb72e281971c84adfc5dab175b98817f7be3cf5cbcf4a0b852"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dusk_08.json",
+      "sha256": "e2f856083773bc3e76c319812175c525f2aee41fdb67ba52bd5e59634af5ead0"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dawn_01.json",
+      "sha256": "caa06f2ad7284f3ddd7d204ecb174b99994940877adb9b7e54f9c2c84df2e447"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dawn_02.json",
+      "sha256": "72816e91bb87d2173899dcc6b9f22d864e560b9f1adeecb104480ad8cb18ca95"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dawn_03.json",
+      "sha256": "a689a870193d2ab3a13e51c976671fbda645b98f874bfcf1c68cee007a8ceb14"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dawn_04.json",
+      "sha256": "ab372e78b5912f91386aeafb58871de362e839669fa5ffc97bbdb1c38d4694e1"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dawn_05.json",
+      "sha256": "0026f3336d3f3918a770e1a95f760c1c400e35ea22169212ed14a9b024a3b131"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dawn_06.json",
+      "sha256": "0440ab0c1118d742419154a23b634c1ffc3a502b7c3a23c63c8a3e7d0165e355"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dawn_07.json",
+      "sha256": "8e4b80709bc3b353bc00ac8426cb18a2125094060e49942673386b801705670d"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_dawn_08.json",
+      "sha256": "cd5b532af222d56d290dee4071444ca58c481ce4ca379413a9692788d1d84262"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cold_fog_01.json",
+      "sha256": "8f57df970293f456aaf71c227319af6954a7fba4eef921098a3b99ae8d3d81dd"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cold_fog_02.json",
+      "sha256": "8140942ecd6f066070b153e3a89bbd17ecbcc934d0ec2039e0a6f8bad6501687"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cold_fog_03.json",
+      "sha256": "9870a788b7c5aad8f0a21228d82246fdb0c878b05c66f5db296069ca2d590864"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cold_fog_04.json",
+      "sha256": "0f0fd417b02229b64b4c52b7877780a5ad3c76152088f7481306ca04116d9721"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cold_fog_05.json",
+      "sha256": "bca515b1bb58307d30e0284433d68e887c3ce062961808be102d8b342405b404"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cold_fog_06.json",
+      "sha256": "b976f5282317404cf46f117e1d47747cb2e001b0c29ff42ab40147d670800656"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cold_fog_07.json",
+      "sha256": "69b2ce4a4e714b5c2dab76a736ce4cdcfa816ba72b393d9008cf971e77c9b94f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_cold_fog_08.json",
+      "sha256": "1cc3b0ceb622ef07098385f3c0d94e74320d55c07163342ca2b93ed978ee9b58"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_rainy_dusk_01.json",
+      "sha256": "b7322b56b3e9763d8f87aaa1bbf361899fb5065f1f0aef538a274a4806daaf2f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_rainy_dusk_02.json",
+      "sha256": "915f099b291138cfecf16f5f3d83a823f6526f79ccebc1c3c3db207eeeaf31b3"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_rainy_dusk_03.json",
+      "sha256": "2f911466e865ee4285e179abfd6b2b757b042a9791d12cc7d12449ec7eb2a576"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_rainy_dusk_04.json",
+      "sha256": "e100fdec5f5bda76ccd5f93c324103d0ec23aadacb4083bb4f30a8e65b30862b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_rainy_dusk_05.json",
+      "sha256": "d079aff984029db0cd60d21b68b48ba5546813334433ec3cbed9a0282c34be9f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_rainy_dusk_06.json",
+      "sha256": "fcb000d6f25de87af70d84b9c0ae2b84e035ba8514ce71b5e6ce99568f19a390"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_rainy_dusk_07.json",
+      "sha256": "4eee68dc9cf4b23ddd86037163bb9087f54536d465c8f16a58d1f35e8d4a27dd"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_rainy_dusk_08.json",
+      "sha256": "f109ffbf84152fabfb1ad1617160146b7c76000305e0a4d3093eacbb17dd640e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_light_01.json",
+      "sha256": "2df7c55e4b0b5c56806f634167f7e39cd8a94bcecb1a9065b4741bd442782a44"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_light_02.json",
+      "sha256": "81466eaceb25fcbec4b12ed19470f14a42248b05135248c8bdcf26e7fd8ed84b"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_light_03.json",
+      "sha256": "556f4413a9bb49420599c8e317621cc5a8453782dc14d43b8ffbdc5ec603767c"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_light_04.json",
+      "sha256": "d03fe50ba730bb9b7b57662ab2e00472066e07fd1f698b297a5d5ddb275cc608"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_light_05.json",
+      "sha256": "9376b40a53e5d1dd535f127d5f4620f1b75ff666d6d4c424b897901a40ef3f5e"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_light_06.json",
+      "sha256": "e33783c0c51312a5362a2a074f6b46f9d03aed6141f675445de72389af74ed43"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_light_07.json",
+      "sha256": "079323a1ff235b27b430336bf8df47ddf4300b94e99842ed388dec3dd0426142"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_light_08.json",
+      "sha256": "d32dd41b27b9dcf217119cec97795d7c79192b94c400f442ee5e8b9c5e568ad5"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_heavy_01.json",
+      "sha256": "b182d05ae81a8e3f59f31a0a023aef20f5a6c64d1f888b4b4826a4081a8a0fb0"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_heavy_02.json",
+      "sha256": "bdda124a0ad6999e166cc0254d104811d91355fbb7d52dcd5627e2c7395262a8"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_heavy_03.json",
+      "sha256": "5710cf0184a34b14fb8c0a94fe1fc797338320009977d45aff0d95512a5744cb"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_heavy_04.json",
+      "sha256": "97896657ed8dd0d5b1ada511945035b4a6270ce4b114af16c02d6cbd641ba3f4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_heavy_05.json",
+      "sha256": "ecbd2ebeaeb6f4401d59bbb61a885ca53fb8053178bcea1ce8028fc07483efb4"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_heavy_06.json",
+      "sha256": "eaa25720f8121e27b75127ab9025fb4a8bafbbf0a7bf5ed855a71333a8a9203f"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_heavy_07.json",
+      "sha256": "23c99027818c40dc411240046a211eea73a090a964f33685370115ab57c7d7b2"
+    },
+    {
+      "file": "scenario_2a_route_02_offset_m10_snowy_heavy_08.json",
+      "sha256": "9dfab681c818cef0327fdccf3ffe7b4551f1caaae56a5f00d2caee1826a47e6e"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sunny_01.json",
+      "sha256": "018daff24a958f90710e14cba2bbd4858cc99582364553c62973934dcb792c9a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sunny_02.json",
+      "sha256": "4612066d83e83019d73dbae98772061ca76554e0c29a9fc0fccd33eece083e69"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sunny_03.json",
+      "sha256": "9307d764e1736a1151c6b5d9a1d68db1c8d0b4a405cf4ac6af4655f0b6ec1ca3"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sunny_04.json",
+      "sha256": "8424fc27020973948ab8f1fccdea9c5c66250f32fc111a094356c9fd3c3d680d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sunny_05.json",
+      "sha256": "2ae911430d5e48dce244cc6b22723053b1fe47862337b24f82a847d38f3ab707"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sunny_06.json",
+      "sha256": "f4c9ec65adf7d8e2dc7f6112d6e23221a93d1c91114b1d504723bf8a4469820b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sunny_07.json",
+      "sha256": "ec355b99deaf5243a19fb20b561f7353dabc9ab3bf6d9a69801a9e9aeb19a3cd"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sunny_08.json",
+      "sha256": "ceff6367679832c3c92fa7dcfc252b879e5937cac3324674ff564f493eb7b3b0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cloudy_01.json",
+      "sha256": "cb80746233a6775cf4e322e1996cf5eccdd0b70c4ea091416b21bc2fe277505d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cloudy_02.json",
+      "sha256": "fa24ce727b0844979df1a953e7c20d7d4d61c3586a89b61333b69de8c3be402d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cloudy_03.json",
+      "sha256": "6181033fa6b6e053711b0ea2cdc01453d3b3322572d1816d97bc65ed034836a8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cloudy_04.json",
+      "sha256": "7457a1fb94f5b693a5a7e6c0f435a315119544ceec87f6e932aeb12e9e776506"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cloudy_05.json",
+      "sha256": "bb0a92d54e1b21bfba51144e2df5555b29a51838401fc641efbd405dd0faf9f1"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cloudy_06.json",
+      "sha256": "17c756699cc90ee9b5606a32f04e791b975e0a845a16e6bb4ad955d832bba401"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cloudy_07.json",
+      "sha256": "9af5110e8cc31fe9f9a95aa75af4211c67e673ad4874fb8108568da142a5bd24"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cloudy_08.json",
+      "sha256": "c65c9001a7c795a2b6fd5ea54fb1f9a84432063e78fc3f60c9507154b273feba"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_overcast_01.json",
+      "sha256": "d6ec6a5a29ce7502e48e9a8e4ef91645e6e4d038f56fb45ba12794042e073988"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_overcast_02.json",
+      "sha256": "914e97c4c5759ca9b0d88d987d87222782ceef19d41ce8b607b6bf6e0d3eccf2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_overcast_03.json",
+      "sha256": "d74d37fd78ae1bed75f1c95155577aea0a27f9540ef02296813e0fbec24f4f79"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_overcast_04.json",
+      "sha256": "b0fd14aa54a1453b054749c75cd0957c42131b972d6ac1f31274b77078698f66"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_overcast_05.json",
+      "sha256": "a0c6c1e0e3f576f05c9c3cd29f76c19e573b8f13e0ec93ec4ba6ea776c2c9adc"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_overcast_06.json",
+      "sha256": "713d3d58cffa00411a6c04e41072705269849e3c4109b2b09e8f5be3505d510a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_overcast_07.json",
+      "sha256": "fbcc89a5147295bcceaad8b22301f0d4f3fbcc1d0243a4e4eb9578a8106276b3"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_overcast_08.json",
+      "sha256": "2b07da8bb178acb03a77a6b09965ffe71619433304a3a60770fdd7e8dcfee1dd"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_light_rain_01.json",
+      "sha256": "fd917fec4022b9491151589cea3ecf88df2b7425afcbb89b5f4b3946722323dd"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_light_rain_02.json",
+      "sha256": "898d0ca6a59b65142bbfcae21b9631a08adffe972923a3685a0bdab5919cb974"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_light_rain_03.json",
+      "sha256": "1dea2749c2035de7593f43f57208b6622af8be8894e63d18542f8c8c31c64ed0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_light_rain_04.json",
+      "sha256": "32e9eeeef3db2e8e6e42e54e50f6b675b3cdbb084bc9a47bbb3ee47b6243d7c6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_light_rain_05.json",
+      "sha256": "0056c886131e74215960102c57aee2aca779dfd3a13a74cd03f98cb457365d9b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_light_rain_06.json",
+      "sha256": "a5bdee265afc499c5e89bc2b86d3f2a2caabf7d3ae787881dbd06663cf666f39"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_light_rain_07.json",
+      "sha256": "c967162fdbe76e064410ac66361ff7e9f0348b42ad2883a2d6b13ecc9d7fedbe"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_light_rain_08.json",
+      "sha256": "55230dcbc908fda1393aaaf74d8cc66c4c9c3699ced0b10231b4575e2c964c84"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_heavy_rain_01.json",
+      "sha256": "92e330cda4672cd602bd98b3b67f012fa95b77ab0622f1e5ea5ad012ea420b6c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_heavy_rain_02.json",
+      "sha256": "cf07b8865b5189bf88376ac0609ab81e76ca20f0590109319c02fab1bb4f9d7c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_heavy_rain_03.json",
+      "sha256": "7a8c3398a300641834a1418a55a4652452a8142c79df81af22d8a5a48df9d5ba"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_heavy_rain_04.json",
+      "sha256": "52f91fee89fa2e5caa60bd971640b96cf6dbcb1e6257c34d930e70221d2a885a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_heavy_rain_05.json",
+      "sha256": "38062c5a0172d1608e9f3675ef8c5a72d01bd86fef65495b99a524b569ab06d4"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_heavy_rain_06.json",
+      "sha256": "4ee0b7f2076353b2677c44325a50982785a26721a8d8162afbd33c80e1f3b102"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_heavy_rain_07.json",
+      "sha256": "299ad39ed383a0bbd927639176e9e5b5b1dcad351259128ddb99fa482f4bb7b0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_heavy_rain_08.json",
+      "sha256": "e3794136552f127e4053e542babe1fe6e07500b891ffd8f11656257e646d6834"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_fog_01.json",
+      "sha256": "98b9993b21fb29f2b42042b1a16fd661c2f3c05d31133f9e2d152b8a35fc7a15"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_fog_02.json",
+      "sha256": "ffbbe7b6320d6f81ed20cc6f2ca646e68e585300225aada47042c3a03cf6cdba"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_fog_03.json",
+      "sha256": "66fd7dad260c0ec97a204c69803984bdef09f4221f636a548ecc9e3360b46bd8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_fog_04.json",
+      "sha256": "6456274ca94da79a58bead32f48a3d61708f0a6920e1b33c97288ae4fd7d33ce"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_fog_05.json",
+      "sha256": "2ae0bf709ccac420ea78bcca71d4122264166eb88ca5d2c639bf2fce9535d11a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_fog_06.json",
+      "sha256": "65e9f6e1dc083f67b5f2b9d3e6b464918e1f3d8ccf6604be9d41cd7d57959050"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_fog_07.json",
+      "sha256": "ef904911d1ed8ebdf5e0f624367a48838f2ca4bd31cf8446a41c4da8f0c8250b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_fog_08.json",
+      "sha256": "6b3a674527a67dafed013f93544d455563f6cc4cda83dd5314c0de1f18612e24"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_wind_01.json",
+      "sha256": "14f16e4d8c3a3dce2050be17bae26228a60eead464043977f34769e531771992"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_wind_02.json",
+      "sha256": "bc7b1319c7c802a6bd4f763fc80299a3c388a8403c9bffcb3b7c5f134a5b6c47"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_wind_03.json",
+      "sha256": "6903f7f46bbf6bac5b001021b7b8d47d4f2667f398660c4bfea28d233a834799"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_wind_04.json",
+      "sha256": "1da1b0df8874d264fc719cac92c461748192fdfb05b855ef27f267e7e2999999"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_wind_05.json",
+      "sha256": "62b3d5f1fa45018e1adebe377161cd2f00ed2d3b123ff57fc5480713e62d831b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_wind_06.json",
+      "sha256": "f93728da9de4474267557da5886f15d196a8036a219910ef11728f7bc3b0bf5c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_wind_07.json",
+      "sha256": "cecdac6c8ef920cb1d42c33c40ba1718fcd4b8c1b708f25f481e1a264aa087f7"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_wind_08.json",
+      "sha256": "cf0c672c1c8a7dca8cf93b24a0ccd950545929777a6c67c96a38abb252512cd0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sandstorm_01.json",
+      "sha256": "2b311a3861a6c6e556691bdea43aadc005653873858c187cd4000e732fde732e"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sandstorm_02.json",
+      "sha256": "b4fc90993f24bf79dff1f4cae76787b54279b45e521f27162b75322499de071e"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sandstorm_03.json",
+      "sha256": "54f7bb47a13e1a44ef380b7ec464cdc18bb9877f175e9d900c80d554ba624c75"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sandstorm_04.json",
+      "sha256": "c44ab3288620ad3ddd90f2e979d5a90092ae243271675f55f50df5252582e86e"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sandstorm_05.json",
+      "sha256": "969861a119b028b2770870ba9c72d7be6dcacb45a0d20125a1bf02af1bfff059"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sandstorm_06.json",
+      "sha256": "b43001c9b64478d73e7e39fd9c9d315a24cb72ec03fab7b7b07c2daea6982579"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sandstorm_07.json",
+      "sha256": "68b909ff0abcfc94f3704653a903454a62ac877f727aed47accf4d6940c3553f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_sandstorm_08.json",
+      "sha256": "3abdb839b3f0df56f626761a7dff380b92c211ac8abfaad695969f42e3078395"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_night_01.json",
+      "sha256": "977d547d06e333117d9100b10a48c350b86bdfd0c1b851e2ba5276423920b94c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_night_02.json",
+      "sha256": "6753b978bf43130a976235eba901b018fb87e5cba0450096bff3853b163414f8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_night_03.json",
+      "sha256": "1f9a36ef60903dd46a02414a6246fced520498d3f1903af74935d8e7ba0d8dd8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_night_04.json",
+      "sha256": "400ef3b09b19ebca67ca1cc24cbf0ebbdc35e7018e15b879ab495e5abc5d87df"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_night_05.json",
+      "sha256": "9e9a722433184bfd0705842f42d56e66e65dc815d972123c81a0fc7cb2911145"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_night_06.json",
+      "sha256": "231998ad828723ed3e60fb2ebc655aafe0b3642a0479331c292fb3f943eb3dc6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_night_07.json",
+      "sha256": "0a616be23f83fc0b6e78d7ccdb0513212b7b4da2bf740b1c30adfacf3c6d4c31"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_night_08.json",
+      "sha256": "a246328cdd47b6d452459e7583857d6b160ec0036bdbf45bc37a85315c21f49b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dusk_01.json",
+      "sha256": "c8ff382e0cf62cd3bd8705b792856f83f333dac3b928c5ba330eb84e0e28f27a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dusk_02.json",
+      "sha256": "4930be60a00447e1e4cd328a0a268b8566b6002fae44b0fcd0c3b16c10aca9f6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dusk_03.json",
+      "sha256": "98ee8f4e512a7c7871781e9718c7facc156c7d2ec0ffdfa3cc08dcea84c9bbe8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dusk_04.json",
+      "sha256": "3f3200a0196347907536e234275bec2ae5cb99ebcfa000d48c9516caf5103403"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dusk_05.json",
+      "sha256": "8dab431f362a4924064f0ac2f1c1d280855299280417b61165b2f16add7eb555"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dusk_06.json",
+      "sha256": "dab258369aeef9f87f890522f12140af23fceed849fcba48256dae6006a066e4"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dusk_07.json",
+      "sha256": "20d1d0a316cbf59212907afb530558dc5ec91a14bb0ac8e623bd133a8d7b49f7"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dusk_08.json",
+      "sha256": "b280c53d1310b032e7652615e72d4ebb4e6fde497fb87f1711fdaf7b3b4c8c9c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dawn_01.json",
+      "sha256": "4727e88b89f458736df9cee6b7e0b53b6fed0e1ce003b271643f6f82b750b576"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dawn_02.json",
+      "sha256": "d5123385b6d1a14d415469715b020344167af44549009ac5aafeab3348336af8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dawn_03.json",
+      "sha256": "b509aa723b2ec026d1fcfd10d142573d27a70cfd38198e82e677fd21052c13fa"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dawn_04.json",
+      "sha256": "2c48b2c943352dfb9af3e6ad669ef2185c63b7c2bc1b25b1b0fd734db84a3c17"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dawn_05.json",
+      "sha256": "31cd90a9c48d5d96c591d68f3125a744663504321ed496ae8ce08a0195a45443"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dawn_06.json",
+      "sha256": "9e932cc44bcd24267a5174e4a66eb879458ff7c7c978dfabf17a1d11b672f32c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dawn_07.json",
+      "sha256": "4d2173d61662ee9f2c5a492130545b6ed423bd8867a41e785dc7eb5f16d04b75"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_dawn_08.json",
+      "sha256": "70fc0dae7a1b3f0436a817b10225c3acbaf67bab6ca5961a1614aaeed410a8cb"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cold_fog_01.json",
+      "sha256": "cb4c5fa6d8c4ba6e83b6ef5723366e5f013ff6f801338e8471b6dc728841df4a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cold_fog_02.json",
+      "sha256": "a259b19aa0c6b4103b47a643a6a33f3d1dfeea93bb13cbf14ccb6dc56a29d54e"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cold_fog_03.json",
+      "sha256": "dc2d262155b5cd317014eb2afac319b80d99755beeadd10ddb5c1f0c53af71a0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cold_fog_04.json",
+      "sha256": "68618604a23754be71ce81a66f49e00391f253c363fcf75831a82bec7185139d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cold_fog_05.json",
+      "sha256": "f77b93a2989a69296525379a6077821940439b457ace81c0e45dba93def177fb"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cold_fog_06.json",
+      "sha256": "f7d24c93222b7984cde77cf545761eb6bef896daa0000f1faa7b98011b5cdca6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cold_fog_07.json",
+      "sha256": "cdc1808827fe58b0cd6ac3ed8bbf5b6a414c4d7f88a2f30074c4628b50675311"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_cold_fog_08.json",
+      "sha256": "ed921bd42142ff2d808f34ec63dd8ea1f35dbf6903452f73f7ff038b4c655d4f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_rainy_dusk_01.json",
+      "sha256": "d0522d6eb62e568938d0b255dff5f80f8089be4c058355a51cba78967e64c269"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_rainy_dusk_02.json",
+      "sha256": "5542707c718fb7bbf5e7723306443f5ad287533d00834a94cb4724a07c859559"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_rainy_dusk_03.json",
+      "sha256": "49f0183aa1fb051ebe84bc257a4c498c621ac03b506b85d146d1412dbe83075f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_rainy_dusk_04.json",
+      "sha256": "25e5cf0870398583b615b178905c080170c32236f07982baab559fcdc047d170"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_rainy_dusk_05.json",
+      "sha256": "3e349a8b7d2267716a04a3dc947a5d2fece7076e08ef2899e8fb2fc0fb357041"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_rainy_dusk_06.json",
+      "sha256": "062e7a46b331d84faaa5c974d576b503b3873b6786698fd1b605e0413f410f7d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_rainy_dusk_07.json",
+      "sha256": "e6cd9c8b059ae5a5c2982fef82892c16754f8e78f9b6d47acbda6bc41adccd4d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_rainy_dusk_08.json",
+      "sha256": "dcd1583fdf8c096f0ca00ac1c55cefe35e515c28bbf48f1f84b033dfef292e1b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_light_01.json",
+      "sha256": "9a3d29b813bb1c5f5598352e78926bdf100b9b0ad4841425c6cc43bd3f30efcf"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_light_02.json",
+      "sha256": "871fe65bce130c03b2cbea490582915ea084fe1d6926a06026c2f01c550b896e"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_light_03.json",
+      "sha256": "cce47af613111859934b14f70b732b5ea77f0a0f58fe1eb19a9f9dbd3213f1a0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_light_04.json",
+      "sha256": "50fc418e1af62c7f905f7a018f60e30deb702528dd693bcfa633d99d3e3c79bd"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_light_05.json",
+      "sha256": "a6f72ec2ec0a8cd438ea38705725c6107d2ef3005d861429d3d94867f88e2aa0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_light_06.json",
+      "sha256": "d063c876a3c40688a0d849e43bfb447bc004dd869bb459948f3abfa52f49fb64"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_light_07.json",
+      "sha256": "9c3fbe12cf0fba7a6c983fccd5fb7f51debfdbfe1cfa4de4f9a41e15fbbfe4fc"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_light_08.json",
+      "sha256": "0235e13173946e80fd9cf7153f232138fa7aabacd7cd0d3b7d8c82c49a17b4c3"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_heavy_01.json",
+      "sha256": "e60565d3325154b0a3a6f391086537de43c456887ad0ebbdfdea420a35ba2cf3"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_heavy_02.json",
+      "sha256": "f2b9e3a2749a236c6ebb2a3ead8649dad84054b3748c60e219104c9696f2c712"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_heavy_03.json",
+      "sha256": "4c96720fd1ebaeab1dddd7daf3b973906af07ca81e78dad0feb7ab19eed6c504"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_heavy_04.json",
+      "sha256": "dc72581e17bf90205b38a06394e05aa5e00f7b7f8503eb2d941c3bd32565223f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_heavy_05.json",
+      "sha256": "5d8b9fc4e974cbd89bd2a61ad582cca8d11757cfd40ee0afd6f74a1ea3235cc2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_heavy_06.json",
+      "sha256": "3607cd4d2386e1d7b5e3ab80c455bbe64f913b300352e545f58473f3429d21d6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_heavy_07.json",
+      "sha256": "c9bd6b89e53062754cfc5dd4e3b1fe6da6a2101e9046bc590740869d2c533f5a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p10_snowy_heavy_08.json",
+      "sha256": "0b5dd995cc2f70c71e0fef799cf225a5312b751241bfbc8a083b6af20925bb3b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sunny_01.json",
+      "sha256": "55a563046348040b2b96fe06dc01f5887ff40c858e5e57f1a49890ac8efa1e62"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sunny_02.json",
+      "sha256": "1f63166f5d7a6a914c3a0cfddf1052b52f45c7c7d1c9d87cbfd3689f9676a330"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sunny_03.json",
+      "sha256": "c63a15f8a9f3f09bd2a8276f9e2c1d9a86aa277b6930bb5597173ccb8bcf380a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sunny_04.json",
+      "sha256": "a20aefb24b2fd97ad78ec1e0b9ea07d63d2f73067582f693ae57080885623fae"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sunny_05.json",
+      "sha256": "29995e220d8fccdcee72db0769263cf180d2d88bf2149200e825f133110cac2f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sunny_06.json",
+      "sha256": "990c20c0883987d25ead6783564d6b7a1f8c39a68a830dcdd08abc571580e4a2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sunny_07.json",
+      "sha256": "dee6110b445b6567c9dde45d2cadfa1665bc149a5b6a516a9edd5b081308e133"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sunny_08.json",
+      "sha256": "9d18cd0f1abf19053d1c195fc96f92b8fb3337b6bad9fd4e8103568ffd67894a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cloudy_01.json",
+      "sha256": "dc4fdc60a6fc9613b65003281d1ca46479119ab185f9724e11d00c4369e8554d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cloudy_02.json",
+      "sha256": "55b505223fbb0c4df20c316b80d9475c951e93916a8c62d25f36e4b262adb1e7"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cloudy_03.json",
+      "sha256": "9c2e98f0eaf3bf4aa9d68bc75274c8e929438de11ad4bc22f253585366085ad6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cloudy_04.json",
+      "sha256": "b8a84d01803cdb4397462b79352b307290e24bcaaf0fba6c05375a976e78c793"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cloudy_05.json",
+      "sha256": "11ff7d39e631fee221371074e1e2cfd1e33c8c95558637035ffda15340d8f177"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cloudy_06.json",
+      "sha256": "76ba4aff9d470a7ef044ff7035b5b745cf266b710f1af498b25d0c51f61a1b0a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cloudy_07.json",
+      "sha256": "5405c85f9e4ee1fcc21fd77e1ff1d78b21c62a0579897c8888b7b884629dbc00"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cloudy_08.json",
+      "sha256": "802e60924af1b77c776079220cad4d60a143f0075da50479ead2a3ab2f6f70e7"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_overcast_01.json",
+      "sha256": "7db986f99923340d14a7885d22713386713dd411b242dcb2e5281fd071070ec4"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_overcast_02.json",
+      "sha256": "202a342d3fb38900a56c582c5b54c9212dbd16c678d5664e13290b27c914b770"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_overcast_03.json",
+      "sha256": "875bc20a7d3bfde0e6ea9933092f8f022a8afaa19085de1c0ec1fa22a0f55e4b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_overcast_04.json",
+      "sha256": "1a972e7c32166419374916e2d0acb52729290bc89c71265baf30b8da6bf64868"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_overcast_05.json",
+      "sha256": "18a21d1c198b8288fb561a589617891f9c6de63f83b599458b168201adddac32"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_overcast_06.json",
+      "sha256": "f3e75deaf4f742a4efc7aef29f9a74eeb5f2a4137ace0bb655ef8d24351cbff9"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_overcast_07.json",
+      "sha256": "28bf23b2b8faff5ffcc57e9bcede1f4a327d9a342769c77bc86520e4026f0078"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_overcast_08.json",
+      "sha256": "a15929edf3572385c0e4494390997749c0334f0c8067e71a8001d7a583faf8d0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_light_rain_01.json",
+      "sha256": "3c65aaea5c968d5fd95efa90021657b9c8f37cb244a220e463168ad9aa32b621"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_light_rain_02.json",
+      "sha256": "8978ea9b35c69503296a8d4662f93da45e2eb09a2c6c5e5053a6a44375af6a6c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_light_rain_03.json",
+      "sha256": "dfd8b457fe2129b6f9e0fdc37eff1381a8d914156713b4a510ed4704322f9ddf"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_light_rain_04.json",
+      "sha256": "0a99749da283a057465f54e0e9e67f842193196b31b21c78f31ae5c0494e91fa"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_light_rain_05.json",
+      "sha256": "373aa43a69464abb36c6cbde076d7986fac1bb79168ea5073276dcbbf403671e"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_light_rain_06.json",
+      "sha256": "c760cb3b4559bf3232452f9e79f261729f91a5859cc83a1a0d8208e9e1d588c5"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_light_rain_07.json",
+      "sha256": "edaefbde276760d689bf9e0c6560a38590763daf3ca69f406ef3aa285af65fdc"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_light_rain_08.json",
+      "sha256": "ced3aa05d7896b50b155f87d85bfe0a3181c8094a96c144dcc19aed8483e89d8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_heavy_rain_01.json",
+      "sha256": "80533fc055652b51f39568db8e6758512af15a490a696077b6e5925f03f9076b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_heavy_rain_02.json",
+      "sha256": "297e1c7671b8a5b4422a03df6fa640c0e757f5b7af2ebf5fcb087f3767a7365b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_heavy_rain_03.json",
+      "sha256": "d2b36e82c089b9977cab37fbb7ace26e2fb16f96fba0692f59ea6a7d437a0afb"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_heavy_rain_04.json",
+      "sha256": "4d98d41edb44e140ddc623ef424a0dadd47025ca1ec4bda9ed4deea2d7cc6aea"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_heavy_rain_05.json",
+      "sha256": "fd0442bece27331961caeb6b8704c55b3c3853c7099d4e481411a769d0583e6a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_heavy_rain_06.json",
+      "sha256": "42424fd129e744c6c44734a9a02817d6916b3584cdbd282a571e6ba5b93b5f18"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_heavy_rain_07.json",
+      "sha256": "dc944d539ac4593797849a8773d48bf349b2b13e808cbf811bf4629d977ac669"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_heavy_rain_08.json",
+      "sha256": "de4421cbec8437659ebdca2315064ce22bd8de0ea767e1d9e02836989673b678"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_fog_01.json",
+      "sha256": "27157b54aa5da52dc094f7fae740e9e1eab2c968c9290f0bb16b4f0a853f1cf8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_fog_02.json",
+      "sha256": "96a3e52fb2d94c63dc924c1010cfbf5e9c4b7ae0091675c4cb531079c6c97176"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_fog_03.json",
+      "sha256": "02f74c10e4e6beb86bf6666de0f616358f76f888ebcad3aeb390d2d9983890d2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_fog_04.json",
+      "sha256": "ea73ae2093920f177fb0520972ce57e8b22c8ffbaebd38fc65f13e3b83ded0a7"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_fog_05.json",
+      "sha256": "d4c6532f2cea4d9435a8a707e9e114a40acd09961212ff03acca4aa3eb6a55ff"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_fog_06.json",
+      "sha256": "8ffce63ebe617e0fc42144a48fda5d0c4ecddcd7ce5f65dfccdbdc28c381128d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_fog_07.json",
+      "sha256": "093169defa9b37318693412cc5684ecdb2c2481b0ef532f5361150fd9ac022f1"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_fog_08.json",
+      "sha256": "bf5e0c42243c0d5720d9da5d164de3b80ff012c0e0333e13f4e5fabf272abe95"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_wind_01.json",
+      "sha256": "1184917537359b091eacafa51cfe3ed144723b2347ff88027b18d65916c8132d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_wind_02.json",
+      "sha256": "313e2e7a61dc151ab639dbbb9d6c2506297510f3f035ae7073744bebad473192"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_wind_03.json",
+      "sha256": "e25be2933fc0cc1571a5f7539d69ce01dd87290601ba9de511e567225ac6dbe3"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_wind_04.json",
+      "sha256": "7df114eef4dc32debd9a0d1f73f483c9730f5a119eefc94c02f83796e9726eb6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_wind_05.json",
+      "sha256": "7932d4b1fde314e5fc3ef84b6f7bedb4e7534ec6a7aac7e9f9eb262fe0c19675"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_wind_06.json",
+      "sha256": "f1280f8c3a73cbf6a9656cf0f85bd4dcb8bec162336843ff4ab2bda79267ac90"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_wind_07.json",
+      "sha256": "e6a23bc7bea74ae52c75d6731f3e71db92d2e83dd93ac942052bf18bdab7e688"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_wind_08.json",
+      "sha256": "55d42bb467f37beadf2e61534be0b8c3a8586713bfd6b28378253e9c96f48dd0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sandstorm_01.json",
+      "sha256": "038a12e8e15f8a96d99f68b2715cc6b7146b26e8c0daf65434929be34b78d6c5"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sandstorm_02.json",
+      "sha256": "904bfb6e00ab160dfa26b2bfeb96939f2ee196c59bcb276059b21234ca9997a2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sandstorm_03.json",
+      "sha256": "b87e65ccaa9491be4ca9d59025e25962c34469e7d703db81c1815615b43c1fe2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sandstorm_04.json",
+      "sha256": "840f5229ec85c160fc5653ab9568c704302c46b6e96e9e2bd7ba80bec08d0f30"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sandstorm_05.json",
+      "sha256": "0ecb0d49e92c5f2e7ed8f9a7c8fd22c9f12d9a67c61c247b3ef51a6f967b3af6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sandstorm_06.json",
+      "sha256": "cf9291b6d84521350928c5a21a3c6d584bb77ea39eac5d5f0e7c5d154e888387"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sandstorm_07.json",
+      "sha256": "961c7388a382574c22dca53e5d83d629fa818e282d493d83a0a81f3da4510a70"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_sandstorm_08.json",
+      "sha256": "987e668a1783f05959b0bbad9e7c359ad78e2dabf2d5b3c78a58c48db70426e5"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_night_01.json",
+      "sha256": "7a622a9656491e7887a5a03a0e8ce7cf805110eec458c8e2df707bfa2336ba8f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_night_02.json",
+      "sha256": "16fa70d6564fb5049bfea5466f7d59ea6a4d92ac2c21d66110c0140803b32c39"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_night_03.json",
+      "sha256": "75972513ccd9b364403a05efc2b859e624af680dc72613544a18089176cfd26b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_night_04.json",
+      "sha256": "0cbb961a6b7522fb0da18dba1b62fe56894b5a9b59ea4a78bbdc6df16d4514f8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_night_05.json",
+      "sha256": "cee7dacf58cafe1aa2770583712a61e9d2008ae3d4df2dc1f69bb5bae9b530f7"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_night_06.json",
+      "sha256": "dbea462fe281d1c1bf6f618581bd2fa2cefa9a696eaa2ebd249302eebc89b3af"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_night_07.json",
+      "sha256": "6c985818e0f85622a5ada0565df122706c018db4a12ee3ec88a429ea54f3628e"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_night_08.json",
+      "sha256": "88c7a0e39ad6a30154691642346021a7c716db39381942882607cc59c1c8b3fc"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dusk_01.json",
+      "sha256": "b4dea9ff18766a873c3d43961af049706300f4cca44cf9a4b684844b3ac59041"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dusk_02.json",
+      "sha256": "f94d45e985a230faa6b409f7458f0087d09eaf649725eafffb9de72e8503fe39"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dusk_03.json",
+      "sha256": "a8f9c4cfcd452f1f9274697f1376cffc16219d0ec782c3494b90279f885d2fd8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dusk_04.json",
+      "sha256": "5ea75012c9388e3cbc0768482ac5d7558293ad7683fe3c55c5b272c1cb1bd598"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dusk_05.json",
+      "sha256": "5e69b2f0c58b417845384cf84c01cf0c229b540fa472358f7001414c7a5227d5"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dusk_06.json",
+      "sha256": "a8a124d2f418afe4fe021142881c836018b3ae68438c446e6eeb317b98f74ced"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dusk_07.json",
+      "sha256": "a7d27bf31c69d6f33f18952a490467a1608665c6c6ea150aa5036c57d7fe1e51"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dusk_08.json",
+      "sha256": "56056a2adf5364b65100857b1ca08fc8caca3202fe59479dce0fbd24e5022bdf"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dawn_01.json",
+      "sha256": "433d4bedfe8f2022960a376ea0bc715d6fa946d28e3417fecfc9fabfc4d406fb"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dawn_02.json",
+      "sha256": "80be0211030e4abb3e9aacac993505b8c990d392b42f57131e4bd3350087a8da"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dawn_03.json",
+      "sha256": "e5e1e57b1d50ec0190dd3dc0dbaaf8fb9f3e76f3a50816b5e71e79439b073687"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dawn_04.json",
+      "sha256": "576b718e5503d2072e16637984e40d447eae9f035b13b463ece6ecd22c83699f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dawn_05.json",
+      "sha256": "155186f9494638b5a27880131d2929b348117bd69bebea12591715050563c6e4"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dawn_06.json",
+      "sha256": "0c3cdd149770e74288401098b0c572380a45a4d7bb6faa79a4ac21f8e5ee9bcb"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dawn_07.json",
+      "sha256": "84a9e0f470b18ce055d3f471759fa5c192c2ad0935c836f0f7be7ec2eb211c23"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_dawn_08.json",
+      "sha256": "290ef665a239a24db58e9dacc37129643a368321da5b82ab2eda2ff2f4105f23"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cold_fog_01.json",
+      "sha256": "5e994f9c0c8403aec77b554577c8ed4e4f4f7545dd7997d62430574b437ea967"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cold_fog_02.json",
+      "sha256": "de0a472cb7c2c121e625a3b726dc48245c9bec2e463ba29c166dda759f21ba7e"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cold_fog_03.json",
+      "sha256": "0c68363935798dca7a93fd8de3607f80272a9a5ce030b425304d6c24901535ea"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cold_fog_04.json",
+      "sha256": "4a2b4e1c45de25dea0525c4d7d9e8459ee1cf898c0d01d474ccbe106556d4b77"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cold_fog_05.json",
+      "sha256": "cf2e9993b49a762a710c79ef27564f6b768e579b39dcf3597518249b4b54bc6f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cold_fog_06.json",
+      "sha256": "1160da1ddf2a2eb398b7228bd8f73059a582cf38c22870923d4ab91df6e11b0c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cold_fog_07.json",
+      "sha256": "42ab8d3cf97d9cd31bb8234c3acda911b1608b84dde92a72cd5f2013a6b2074f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_cold_fog_08.json",
+      "sha256": "940ba6f87980565838316b6f09c36ab9e126d86bd5be522a40e32f345455e49d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_rainy_dusk_01.json",
+      "sha256": "2272b850be855e517b4323f8ec448c9e7897ae15a0dfee849c7db93409ec69a0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_rainy_dusk_02.json",
+      "sha256": "bd79117751bf5fae307ec96ad90de5edc590fdef88106b93c47c1d6e46bcf8ce"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_rainy_dusk_03.json",
+      "sha256": "9ae2a374a0434a272fd44c1ae23d98689dc7e020e82fab8f816c192c3937a323"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_rainy_dusk_04.json",
+      "sha256": "36aa0c112db04c104a3f7fcc638385f45225cc379cb6fa2130101d6e48a44a80"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_rainy_dusk_05.json",
+      "sha256": "0d2705ab482edecc54651eeb8ff6a934bf03719fd50c31bcdec8817c6df7e24f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_rainy_dusk_06.json",
+      "sha256": "916f96f085283b751cd0f322def91d558980450a34f86ffad9b7ee48db141d59"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_rainy_dusk_07.json",
+      "sha256": "a9d9c5662eaa7ef2cdf639f37b8e2110a6c60036ca51da08b4159f60aff2d5f2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_rainy_dusk_08.json",
+      "sha256": "732bb4b399d337a90eb34e972428abed6b887cfbc92f73e26ede5048d67ff135"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_light_01.json",
+      "sha256": "7c2adf8cead07c3dbf9a7db7ec053f3271896e165fb9e486549028ea6bdf8146"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_light_02.json",
+      "sha256": "5e572b1cbbf13a33096b3cfc424a3ef3e1fc5961398489679caeddca207199d8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_light_03.json",
+      "sha256": "e4bd7692dff5ff57e376540eecb8da93285ed3c3cddf2d3aee3c7cbcac392786"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_light_04.json",
+      "sha256": "b6efb79c1acb288a3e62d3ba4ea81c1f4e5494e461c5c87e03bab302ed28e28c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_light_05.json",
+      "sha256": "9605834cd0df605642e0ba0fce0aa108075a4a44cd9f805369798e68c7a8748c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_light_06.json",
+      "sha256": "6b3c3561b3cede4329f15b74edcb69ed4333ee0051186a4b27e45d46316f911d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_light_07.json",
+      "sha256": "1fe6a6714c27c8e8bc1170d9585452b5241613e35642df4ecfbaf591f2df9b5b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_light_08.json",
+      "sha256": "ac4c74ef795889dacc45bd7027429cbc68298de22c6d18476c32b39aad52fda8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_heavy_01.json",
+      "sha256": "ce5d38387c1bf1567e895c7d4c2f9d5d865ef92f4801e17e76d43106c9c79e9c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_heavy_02.json",
+      "sha256": "d0fe8d1119cf2b844ad70d023c590ba8defa25a0f8481e2c75ebe470e07287d5"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_heavy_03.json",
+      "sha256": "77ec216b94e60f6bf3dc44e77f847d2ac7b60a1d7a6179a76caf6f2b38009b83"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_heavy_04.json",
+      "sha256": "78d8aaf6bc249bce9e639ce87056681b8143732b1db268a4953d0043eb19de4f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_heavy_05.json",
+      "sha256": "b976c71518d8c96c11d30a157721c4af23ff1bfecef1c43aa25b28eb92cf2017"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_heavy_06.json",
+      "sha256": "f2a314f442bb6137289f2c74edc58de7321a886733e0ab25fa1976f2ccf9699c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_heavy_07.json",
+      "sha256": "4f63918850066fa447562d91667bbc85e9b017cf63439de1173c5f310a1a712f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_p0_snowy_heavy_08.json",
+      "sha256": "43b6dcdbfbe5c322c6ca0e8cb9302a5c2f41b7c475e7613c7159af6eb0c11356"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sunny_01.json",
+      "sha256": "68deedf44beef51e6e342da344f309a251994e8ec9fc80ad6bd7fc446a3ca4b3"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sunny_02.json",
+      "sha256": "f4c883b31a79f553c96e81b8baf2bd38ab57a96354fc90e0adeb43956a0ea59f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sunny_03.json",
+      "sha256": "8f25d6bd11ef7993deb1a7f348d5b93388deb18e264d2a52950c288ca1c3d9b4"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sunny_04.json",
+      "sha256": "a3f8af03f559fbefebcd116ffc6f1858db60e73f106243d8c0b221d685bef524"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sunny_05.json",
+      "sha256": "e9f074821f5035bce2938be5de40c058f821554dbd83d29412db76cc21c53333"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sunny_06.json",
+      "sha256": "a32d1f738e319a5b0a8638bef039e1bbbe0e89e3bc480dab6052bf3ce3f5cc0d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sunny_07.json",
+      "sha256": "88566a3c116936cb6262fb48993896e4ec95541feaed73f06a198eb92096479d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sunny_08.json",
+      "sha256": "3d4ee8dfdbeaeb6e987e5207466c27220e348191a46ba618a9594371d1f17b74"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cloudy_01.json",
+      "sha256": "b4d9016066ce6798cf11000228ed6a24a645d916f4be016e1c87452833399118"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cloudy_02.json",
+      "sha256": "9212872e15d17dddbe824c2f7dde895e1aa56d94c6e0ca45cd0ece8292195d28"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cloudy_03.json",
+      "sha256": "39be1ea49c2f744a337fb79cab8b8ba9c123a582a2a6fb52368631b9cae66532"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cloudy_04.json",
+      "sha256": "b31b14cb4308e106d75d40fb9774a4a3586c723e9795579c65dc839adeb2de36"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cloudy_05.json",
+      "sha256": "90d8fff66cd64c5b94fe595a23ab4d1a456571958789870579714e11fd22fdde"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cloudy_06.json",
+      "sha256": "17b016e04bcc13afdc175ec5052d25f66da2e9aa8f3d7a7b8bea59c3f6c950d2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cloudy_07.json",
+      "sha256": "4281184551208534e21f8de8c538eeaa61c8758d94189e5e6b8d981d547886fa"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cloudy_08.json",
+      "sha256": "9d565161a0b54d9cce748bc0add997f47142ea8495b4ef181add19d7b5b2d9fe"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_overcast_01.json",
+      "sha256": "ef8dc14eb9e7b03d3b45cb04e44a00a78742a4b80abade8501b8a5d9f950067c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_overcast_02.json",
+      "sha256": "adf6bdd6e5aed2beb2bd083a52ebd30b6db9c5c849bec0ab7e7c60b815bd38f9"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_overcast_03.json",
+      "sha256": "e6457e1b2e35d10b72e1726754b0f2e0fc28bb5cbb7b941c8035818935ed5168"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_overcast_04.json",
+      "sha256": "152255cc02688e24251d288150a63469174383ea3f0fa2b9abd67b5789f099fc"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_overcast_05.json",
+      "sha256": "b802b0e63a85c2ff18752455334b5ce219347832837fa649d2e54300cceb5a49"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_overcast_06.json",
+      "sha256": "89163dc3f346ed616fbd1a174f0dd2aa68991a6cc15c5a544bc27841a11322e8"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_overcast_07.json",
+      "sha256": "4aedaef72883ebbaeac76715cf0ab9b05ac6d620649ff43d870d3c152a8b53d2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_overcast_08.json",
+      "sha256": "ad81044cb1d32ff2433c0d028d9b1ac4448d709ea4a5c67e9c30a47655bdfd21"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_light_rain_01.json",
+      "sha256": "c51c4e73b0cd1cc67d0e77e69cb79b7f4efbbc272aea415368d56046d42c298b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_light_rain_02.json",
+      "sha256": "a63afde3aa362968a8d4bdfac45430ff0e108b79831dcf2a136107c03cc0021a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_light_rain_03.json",
+      "sha256": "6697e98bfdf97c7560f1e5352410927448dbe687a10ea0dad227caf65d5fb420"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_light_rain_04.json",
+      "sha256": "05a9f90a5ac630883499da917fc6c47c1e726f7e43a5f367cb86a64296b51285"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_light_rain_05.json",
+      "sha256": "cd19576aa2f43795149d8b96373073199c85838544fe49816642dbc8d8b8aae6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_light_rain_06.json",
+      "sha256": "831a5d12bea3fbb410994c95201f50332a294bef4407d269b69e3723c604c355"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_light_rain_07.json",
+      "sha256": "2f821fc091327fe5da88c65ef5721f1cb242f2ebb09ca22025aa524465085dd6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_light_rain_08.json",
+      "sha256": "b3eb1c6111e19b646333f80e842ea1f45cae37de7b47f23df7faa7c988f85ec7"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_heavy_rain_01.json",
+      "sha256": "5e946e18b1071b5debb12dd42950ad696219139bbb384ab7cc8ded4ad286ab41"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_heavy_rain_02.json",
+      "sha256": "783c0ad620c67d8319b4effba5537b7ad3626cd112e563569a4c198983d873d9"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_heavy_rain_03.json",
+      "sha256": "8d121f1cfc186c045e52ef3c773a9c5ce35d7f30be8eb984c4abe6147be1a3dc"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_heavy_rain_04.json",
+      "sha256": "950c23e252902917e8438c1935f13106bd1d691730b6fcf1cf6ef37216ec7178"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_heavy_rain_05.json",
+      "sha256": "c4d939ad9e3a27924b317d931e75f402846aeb68b44f8acfb7ac27038bb8479f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_heavy_rain_06.json",
+      "sha256": "e602ec36d30094b24474a6d8b3f17f0b6cb5d6d287bcf7fcf48107217194e11e"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_heavy_rain_07.json",
+      "sha256": "19d88cb1aeae3a6e8998bd27c25e354f91a0ecb742d1c909259a136faa00f7c1"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_heavy_rain_08.json",
+      "sha256": "e5640acad794ded09e755d1262201e4b47c3ca1f9b4acd8aa5c5520ba94a76c7"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_fog_01.json",
+      "sha256": "60edc8ed71ab28029ba1f266989b837bb211feb9a8bb12fd78c71c39dc1a6528"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_fog_02.json",
+      "sha256": "09ae7f1642eb88c894b3ba17f76c2a82dcbab09a4fc7616fd8d1b8a463ee275a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_fog_03.json",
+      "sha256": "4a3877f1cd1e4fe614b5a11dcf81edacb37f9660d8c06e45d3c5282f3b1c3ac4"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_fog_04.json",
+      "sha256": "d9d976aac3db76a80b05735a76d0c652ed96ce06499ac94e96160d380cac5e45"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_fog_05.json",
+      "sha256": "1cb476c049118eadd0e3f0f723f6ea6967ddb7828314de588ba7a6290424c2cc"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_fog_06.json",
+      "sha256": "88d4b1f892b230aa3ff261c0f22458470beb94d1b41388f061860d0514e63007"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_fog_07.json",
+      "sha256": "845783d0fa58282fb25b984071cf51b632d8013d5f977e04822943863eeb8441"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_fog_08.json",
+      "sha256": "36812ee87e6b3763ba602c2f4a7e8f690cf0ee9ec2a6ecc6a0f491e5d02ab1c4"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_wind_01.json",
+      "sha256": "03338a6d759973815b95a94ed90f65aa47d8e499b4b0bb72c44750487ddd242c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_wind_02.json",
+      "sha256": "8f96866df5c42a15585a5a32a96b63c3b38a8202f8843d3f66813d98dc4157da"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_wind_03.json",
+      "sha256": "2cce42997ce3d31f8f036bf6fc0308af28532e3f3ef03fb105a589d78a23180c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_wind_04.json",
+      "sha256": "b140557036bc1f928ffd447414133ace69d02f83f3d1186ff1ccf05753dd101f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_wind_05.json",
+      "sha256": "5b39d04afe63d203fde0a497602aa60e4b6f08f5c3304f459f1a702cf23bc1c1"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_wind_06.json",
+      "sha256": "143bbe24089aa9ec63de82361e249ce8e9ffe9b732c652ff8f0c807a257e2b10"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_wind_07.json",
+      "sha256": "1d572457c5224b92b08de9e87a67e972f799c82a01c3f94f6c29b0aceef22fc9"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_wind_08.json",
+      "sha256": "b16fe689712c6257f5931d528dc2e1f893bb62416639ebe2df927eabea98857c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sandstorm_01.json",
+      "sha256": "250c02619aa4968a5a0833bb9b76d916e49ffbaaecba5d963849394542b66b54"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sandstorm_02.json",
+      "sha256": "6f3c36ae941069ebf5f4dd2a8f07ab35fd469af1a1838165e4f493dde42e3b2c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sandstorm_03.json",
+      "sha256": "38767ea39aacf107ff60bae985c70de1b8a790dc29c6edb964335db15fcaaf91"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sandstorm_04.json",
+      "sha256": "8db7dbd9225afead410ba0c5515b8ff7aa0dc82513a924066e9fb0a6a4f1b627"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sandstorm_05.json",
+      "sha256": "fa6f1671c411ffe249f70fac64998551257e6d0c9b3400a7fda9d229e2a8791b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sandstorm_06.json",
+      "sha256": "7b7ce03283af7c472b89ef5a229d84ec272ab20e2f894856a4c71228d6304d72"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sandstorm_07.json",
+      "sha256": "b0042e4eda85c23600488431ec594acc978e6e06ba4116367f25b29af5b8a330"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_sandstorm_08.json",
+      "sha256": "5b516f2826379ec4af8c92995a012ca9c91cadfd4132180c1a0fde621ffce419"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_night_01.json",
+      "sha256": "e48528a32942f7931fc222958ab6f49193434ef6538e49434eb4648892ecaf29"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_night_02.json",
+      "sha256": "963e29fb7a0ef3f1e03b67745a15e7c5b535dfd92007fed8ef88d2ca689ba893"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_night_03.json",
+      "sha256": "f5146b754a21c703ed2541a62fcfaf5bde18c737abf1b4e11c089e1f5aec2245"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_night_04.json",
+      "sha256": "928c7cce84def55d65015370ff2134917960b0c9cf82032019e270514f11ae65"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_night_05.json",
+      "sha256": "fbf12e2571900759633b6bc9d0d9f5266af65e4c4a6c8d42b7ca0964bacb57af"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_night_06.json",
+      "sha256": "b9be263b02e7958868b05053b1366ca834c13a6ebf83e2f0e3fddc67e750e330"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_night_07.json",
+      "sha256": "032f3ba6bf4ba3574464fe939c399b96307c5e41a4202e39d01984316e339262"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_night_08.json",
+      "sha256": "265c7e96873557d40d87bf634ab9413374e2eec8ecafcf9ce66c04041cddba82"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dusk_01.json",
+      "sha256": "548b01359aa8ee4adeea6694f8b67ccce40f5824c5b1797707c1aa4b51f8799f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dusk_02.json",
+      "sha256": "6b08206b7559a3a97abcc2434fed88e4d700df4eff76fe9b4491dd9536a9644c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dusk_03.json",
+      "sha256": "8039659e25e26b97032397ca6f8f2a35a55ee2949000df44dcf7165d5a124f0b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dusk_04.json",
+      "sha256": "8d25b018d32d7b5fe170f1140c28d81f12183aa88293fd569653e8fcccabd982"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dusk_05.json",
+      "sha256": "a2e896a3b439a24c8082bde84e790da1d023b80acd1b501a87defbd7c471d9b9"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dusk_06.json",
+      "sha256": "f10b152b1c1336bd677692396548d853b9b7738c90e9e22dbad0dfb18485dfdb"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dusk_07.json",
+      "sha256": "3e1c146fbd530da7733487eb7d92da933dabddf5593111d4f78d0c957c83f072"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dusk_08.json",
+      "sha256": "ffdd89d402196155d815822ac748c2cd274ba5b34cae02129d98163dce5f50ea"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dawn_01.json",
+      "sha256": "e29506b66942826a2a5a34ea9a607d15c51cfb777496b28ef224e510ca938ba7"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dawn_02.json",
+      "sha256": "282fc527783314191edb7f5aa838041f1bb4facb7d00b0a6974a3d0dfd2e84cb"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dawn_03.json",
+      "sha256": "00ddce3fafb63c37fb6dd0ec86e9021bca2196240a930dde2263149353bb7442"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dawn_04.json",
+      "sha256": "e1af3ed2e322326fe9e28ea88e271556ebd1c54d4d6158b117cc318cbf3536e3"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dawn_05.json",
+      "sha256": "e96cfaff5d8486464ebe99c02863544ef9d234385dd9103e0b91c00809d6201b"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dawn_06.json",
+      "sha256": "09d22fbd67f802f9ef3f3645e233cb87282afcc6ee0d25bed2a25bccea6de3d3"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dawn_07.json",
+      "sha256": "36d4c354447528b10d92a67a3ce2ee44cded12a31228de7f572c6f3840bee4d0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_dawn_08.json",
+      "sha256": "9e9b0c86c03856074d6886ddfeff506779d7a7f79b553d8fb1f5ca4914cd5d0a"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cold_fog_01.json",
+      "sha256": "ceaae10b0be7b9463cbe50cf9acdd72d64bde8e33db3e8100cff22320e1f4d6d"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cold_fog_02.json",
+      "sha256": "15f1c6a1d9fc925d704bdb9ad2ce1d9bd7c7ec2099f47396891a25c24e5ddb19"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cold_fog_03.json",
+      "sha256": "97c72e0bf2604e7ea36ca46a683d6ac1830cdde065eead18f6abaf0281d68168"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cold_fog_04.json",
+      "sha256": "5581f74b172775a1c475d1063069e000c78e9066da076618afe114815d3d08c6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cold_fog_05.json",
+      "sha256": "266dee0c9c02dd443fbaa17aaea1b00f8c9399db0cb35187fd37730ddd74dc24"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cold_fog_06.json",
+      "sha256": "35901140e4803f858ff1cc8f122c7416533ceca6fa431407c853e166bcd4a9bf"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cold_fog_07.json",
+      "sha256": "be0a5c34b0b02e0b194ef570e84609b771c5374d25e1e1e6bb2dc1931f045b4f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_cold_fog_08.json",
+      "sha256": "0d4c6a59866b46bab65f54a3bee647117660fc79de71e2b4af59f26b5aa8e05c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_rainy_dusk_01.json",
+      "sha256": "a03c99ae6f78936a03d71ff6853bfb845d6ccbba2364c0c31d10586d1feda139"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_rainy_dusk_02.json",
+      "sha256": "ebb7685277f20e6606f411ddd142706b4e8c0142090dd44d44f237e07537b589"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_rainy_dusk_03.json",
+      "sha256": "8cc39fe3b83a6a418d9a7eb650eb5d63ed2a83017e60f16949d8775c351329d0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_rainy_dusk_04.json",
+      "sha256": "02153e16fdd0870a10d900a8bdaf3aa76e5ae8190400da4fca5c3e91e8f04b32"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_rainy_dusk_05.json",
+      "sha256": "584061165025b24569724831aefb1ece74a6f4a508f8e29d036f1fa75de8f340"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_rainy_dusk_06.json",
+      "sha256": "7b8e5c0bb2900c55c05eb52740d00350b3fa08c36b693169f0c7106a1bc20b1c"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_rainy_dusk_07.json",
+      "sha256": "4ee5e52d09b6530537b7dd875f7b9e3a17e8f0eedc3c2c7a32c9cb596cb3bf17"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_rainy_dusk_08.json",
+      "sha256": "e1538727245604c144093a272e76463f7921576c71ecad9b0374d5a444555ae2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_light_01.json",
+      "sha256": "5ba09eee8044c2bc205b774d3b2375324c00d14142de2bc90faf6a1fdb15d7b9"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_light_02.json",
+      "sha256": "b463e9bab3c844ed4881b13ab78ca57ff29390ba453ea58ff1321359695b7dd6"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_light_03.json",
+      "sha256": "cfb81a0fbe6276345685dffcb6fc4faaa89937ba45204ee8f2bf4fb81c7abaf1"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_light_04.json",
+      "sha256": "d8bdc0e3392473acf4d2ec522452e8cdcc0bc4c35673c69e6d397c495838e2c2"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_light_05.json",
+      "sha256": "ab904a10a4fa3e5c9cb3d66d36895e86aff10c13c577e377fde5566a9de087d3"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_light_06.json",
+      "sha256": "9e191599ba5a193edfaf597ea82f3061fb621e430cffa7b96db6baf404c3010f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_light_07.json",
+      "sha256": "9b812a74bff28e0fa466a29d46ca74e9f71749f6c55fc9920feeb029c06f0571"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_light_08.json",
+      "sha256": "befcbe481d17e1c2fd06c0b009d37dc74bc40664b838bf54de3ba8d00e618cb4"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_heavy_01.json",
+      "sha256": "c22642c96a26923bdf115f9ef9e182a291b724846702fb606414f431afd07c08"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_heavy_02.json",
+      "sha256": "51f5ca5495b225a0b0cc17190e340233d8996dc3c61db704f1c605625c70c5f7"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_heavy_03.json",
+      "sha256": "5d5dfbf7802eeef4ab16d3a944e5a03c9e7a4338e6139f5a8bcdcb6c40bfa525"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_heavy_04.json",
+      "sha256": "099f8cc2c60bddbf7728e223f5e3aa250136f0a11a374f15aa06c7ddfbfee110"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_heavy_05.json",
+      "sha256": "4adf66f36c10ba60dc217807ffbce9f7f47a8fb80dd9d487b3e95639d144096f"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_heavy_06.json",
+      "sha256": "f3d8b5d6b6d9e40d0a76eba768bc706dd9e88c034a3b5f5bc95b88fd45899ce0"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_heavy_07.json",
+      "sha256": "2159ddbfdb7079a2860d97f9e0214a8d684335b82a31b9bcae49499850de82a4"
+    },
+    {
+      "file": "scenario_2a_route_03_offset_m10_snowy_heavy_08.json",
+      "sha256": "4fe18a7d3b0dbf259c508cb0014f868366910401ca695861ba5626fd957b0ee4"
+    }
+  ],
+  "physical_field_test_compliance_claimed": false,
+  "route_manifest": "/home/fsm/STF/SMap/STF/save_scenarios/2a/route_variants/route_manifest.json",
+  "route_manifest_sha256": "0e636b0bb560971da8fdc68064fd0cb2a3ebc77dd8ac52f415eb4e32c633fe3a",
+  "schema_version": 1,
+  "screening_only": true,
+  "summary": {
+    "baseline_count": 3,
+    "baselines": [
+      {
+        "baseline_route_fingerprint": "9703d2d9ebbba11f2362dd5ee107779ac95f5befe1efa66d3aaeb299c7e90a54",
+        "condition_count": 360,
+        "groups": [
+          {
+            "condition_count": 120,
+            "route_fingerprint": "5bed5ee482b7725a240aec6df39e9ed940e6a8f299d92e2201c6175ec2b1b5fe",
+            "screening_only": true,
+            "start_distance_m": 9.996328404425167,
+            "weather_count": 120
+          },
+          {
+            "condition_count": 120,
+            "route_fingerprint": "8233053e515e23466d4d31a70f01b6ea175c54e31a1fe54fb7e90173002d5f8b",
+            "screening_only": true,
+            "start_distance_m": 19.996328404425167,
+            "weather_count": 120
+          },
+          {
+            "condition_count": 120,
+            "route_fingerprint": "82a9f01ed558e82bd961b823df406aa1371807b7cd14d884dbd32a7fda64a9ca",
+            "screening_only": true,
+            "start_distance_m": 29.996328404425167,
+            "weather_count": 120
+          }
+        ],
+        "screening_only": true,
+        "start_distance_count": 3,
+        "start_distances_m": [
+          9.996328404425167,
+          19.996328404425167,
+          29.996328404425167
+        ],
+        "weather_count": 120
+      },
+      {
+        "baseline_route_fingerprint": "a090329474aa41ce713ee239befa8263cd70e52b9fb06acb31b120a4315d9f32",
+        "condition_count": 360,
+        "groups": [
+          {
+            "condition_count": 120,
+            "route_fingerprint": "f30e7a5f00a46f64887491eb1a8691401a2b0f9c5dc66dd8c8cde12855d5a862",
+            "screening_only": true,
+            "start_distance_m": 26.047240630519497,
+            "weather_count": 120
+          },
+          {
+            "condition_count": 120,
+            "route_fingerprint": "ddfdecdf6fdf9ebae6f5f6b65dbfe5dad31b6bb8801f860f518307e1fb244798",
+            "screening_only": true,
+            "start_distance_m": 36.0472406305195,
+            "weather_count": 120
+          },
+          {
+            "condition_count": 120,
+            "route_fingerprint": "04d9dc8a2db21ad7ba5d5e3e2f27f7a57fef1e8fef4b25dfafe706dc235da7c7",
+            "screening_only": true,
+            "start_distance_m": 46.0472406305195,
+            "weather_count": 120
+          }
+        ],
+        "screening_only": true,
+        "start_distance_count": 3,
+        "start_distances_m": [
+          26.047240630519497,
+          36.0472406305195,
+          46.0472406305195
+        ],
+        "weather_count": 120
+      },
+      {
+        "baseline_route_fingerprint": "d4a9de673df8bc191c0b39f1c91b926af49a164426f8f05aa8369606600b198c",
+        "condition_count": 360,
+        "groups": [
+          {
+            "condition_count": 120,
+            "route_fingerprint": "b8a792a9606d35094b4cb8c4281e8c5be4cec7825ca2ed76e71fb16c03b5d122",
+            "screening_only": true,
+            "start_distance_m": 17.9991294771494,
+            "weather_count": 120
+          },
+          {
+            "condition_count": 120,
+            "route_fingerprint": "ab8a68ca78c5c8694965d9331ac2b1407e86587fc2f519b15a760b1e6e01820c",
+            "screening_only": true,
+            "start_distance_m": 27.9991294771494,
+            "weather_count": 120
+          },
+          {
+            "condition_count": 120,
+            "route_fingerprint": "cf635f1b9642891bb652d248c6f1c778b201c466e22110cf65ce1ef953f31ff8",
+            "screening_only": true,
+            "start_distance_m": 37.999129477149395,
+            "weather_count": 120
+          }
+        ],
+        "screening_only": true,
+        "start_distance_count": 3,
+        "start_distances_m": [
+          17.9991294771494,
+          27.9991294771494,
+          37.999129477149395
+        ],
+        "weather_count": 120
+      }
+    ],
+    "condition_count": 1080,
+    "expansion_kind": "spawn_offsets",
+    "screening_only": true,
+    "spawn_count": 9,
+    "weather_count": 120
+  }
+}
