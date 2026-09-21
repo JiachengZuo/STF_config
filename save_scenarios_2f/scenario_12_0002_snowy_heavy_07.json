@@ -1,0 +1,59 @@
+{
+  "construction_lane_scene": {
+    "route_01": [
+      {
+        "name": "scenario_12_0002",
+        "ego_start": {
+          "x": "-286.40",
+          "y": "-59.29",
+          "z": "0.30",
+          "yaw": "39.82"
+        },
+        "ego_route": [],
+        "weather": {
+          "cloudiness": 100.0,
+          "dust_storm": 0.0,
+          "fog_density": 95,
+          "fog_distance": 7,
+          "fog_falloff": 0.45999999999999996,
+          "mie_scattering_scale": 0.07,
+          "precipitation": 88,
+          "precipitation_deposits": 110,
+          "rayleigh_scattering_scale": 0.015,
+          "scattering_intensity": 0.14999999999999997,
+          "sun_altitude_angle": 25.0,
+          "sun_azimuth_angle": 120.0,
+          "wetness": 108,
+          "wind_intensity": 58
+        },
+        "trigger_position": {
+          "pitch": "0.0",
+          "x": "-280.25",
+          "y": "-54.17",
+          "yaw": "39.82",
+          "z": "0.00"
+        },
+        "trigger_radius": 2.0,
+        "other_actors": {
+          "center": [
+            {
+              "type": "obstacle",
+              "model": "static.prop.container",
+              "transform": {
+                "pitch": "0.00",
+                "x": "-274.05",
+                "y": "-48.75",
+                "yaw": "39.82",
+                "z": "0.30"
+              },
+              "rolename": "obstacle",
+              "autopilot": true
+            }
+          ]
+        },
+        "timeout": 60.0,
+        "active": true
+      }
+    ]
+  }
+}
