@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "scenario_code": "5d",
+  "scenario": "scenario_5d_speed_05_overcast_01",
+  "baseline": {
+    "schema_version": 1,
+    "scenario": "5d",
+    "ego_start": {
+      "x": -5.365730285644531,
+      "y": 145.48464965820312,
+      "z": 0.3,
+      "yaw": 39.922035217285156
+    },
+    "ego_route": [
+      {
+        "x": 37.581695556640625,
+        "y": 181.42234802246094,
+        "z": 0.3,
+        "yaw": 39.922035217285156
+      },
+      {
+        "x": 71.70111083984375,
+        "y": 209.7614288330078,
+        "z": 0.3,
+        "yaw": 40.086769104003906
+      },
+      {
+        "x": 100.04031372070312,
+        "y": 233.61407470703125,
+        "z": 0.3,
+        "yaw": 40.086769104003906
+      },
+      {
+        "x": 122.99241638183594,
+        "y": 252.9324951171875,
+        "z": 0.3,
+        "yaw": 40.086769104003906
+      }
+    ],
+    "map_name": "stf_test_map_package/Maps/overtaking_scene/overtaking_scene",
+    "opendrive_sha256": "8952a37d3d1f0bb5791c79c8414aa8579065327277551f3e1a332fd842a8ffd0",
+    "lead_start": {
+      "x": 13.807232824363558,
+      "y": 161.52826164433537,
+      "z": 0.3,
+      "yaw": 39.922461799972936
+    },
+    "geometry_warnings": [
+      "OpenDRIVE未将两侧边界均标为实线；不阻止保存。"
+    ],
+    "lead_placement": {
+      "mode": "automatic_along_route",
+      "initial_net_gap_m": 20.0,
+      "preview_vehicle_length_m": 5.0
+    },
+    "route_length_m": 167.39555622560036,
+    "initial_center_gap_m": 25.000000000000007,
+    "baseline_fingerprint": "d72aeb5ca2d8cbd62c4f961b23a5075d29d6a60ad76f1e191fd4282bec7921ea"
+  },
+  "test_speed_kmh": 50.0,
+  "speed_band": "medium",
+  "route_plan": {
+    "initialization_mode": "moving",
+    "initial_net_gap_m": 20.0,
+    "required_route_length_m": 106.63065843621399,
+    "available_route_length_m": 167.39555622560036,
+    "planned_center_gap_m": 25.0,
+    "route_length_sufficient": true
+  },
+  "weather_id": "overcast_01",
+  "weather": {
+    "cloudiness": 50.0,
+    "dust_storm": 0.0,
+    "fog_density": 0.0,
+    "fog_distance": 100.0,
+    "fog_falloff": 1.0,
+    "mie_scattering_scale": 0.03,
+    "precipitation": 0.0,
+    "precipitation_deposits": 0.0,
+    "rayleigh_scattering_scale": 0.0331,
+    "scattering_intensity": 0.7,
+    "sun_altitude_angle": 25.0,
+    "sun_azimuth_angle": 120.0,
+    "wetness": 0.0,
+    "wind_intensity": 15.0
+  },
+  "engineering": {
+    "stable_follow_duration_s": 3.0,
+    "setup_timeout_s": 90.0,
+    "trial_timeout_s": 30.0,
+    "camera_timeout_s": 2.0,
+    "speed_tolerance_kmh": 2.0,
+    "stop_speed_threshold_kmh": 0.36,
+    "deceleration_target_mps2": 6.0,
+    "deceleration_ramp_s": 1.0,
+    "lead_brake_feedforward": 0.65,
+    "brake_kp": 0.06,
+    "initial_net_gap_m": 20.0,
+    "vehicle_length_allowance_m": 5.0,
+    "reserve_m": 10.0,
+    "straight_tolerance_deg": 3.0
+  },
+  "screening_only": true,
+  "physical_field_test_compliance_claimed": false,
+  "condition_fingerprint": "5de7cfc5f9a45abc58f111a56f2e78eb3d08da8992808befb0cabaf1de5569de"
+}
