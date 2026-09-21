@@ -1,0 +1,100 @@
+{
+  "STF-6-a": {
+    "route_01": [
+      {
+        "name": "scenario_31_0001",
+        "ego_start": {
+          "x": "-6.86",
+          "y": "-11.30",
+          "z": "2.31",
+          "yaw": "78.98"
+        },
+        "ego_route": [
+          {
+            "x": -6.09,
+            "y": -7.33,
+            "z": 2.21,
+            "yaw": 78.89
+          },
+          {
+            "x": -5.7,
+            "y": -5.36,
+            "z": 2.21,
+            "yaw": 78.85
+          },
+          {
+            "x": -5.32,
+            "y": -3.4,
+            "z": 2.21,
+            "yaw": 78.76
+          },
+          {
+            "x": -4.93,
+            "y": -1.44,
+            "z": 2.21,
+            "yaw": 79.0
+          },
+          {
+            "x": -6.57,
+            "y": 4.99,
+            "z": 2.21,
+            "yaw": 79.55
+          },
+          {
+            "x": -6.2,
+            "y": 6.96,
+            "z": 2.21,
+            "yaw": 79.38
+          },
+          {
+            "x": -5.83,
+            "y": 8.92,
+            "z": 2.21,
+            "yaw": 79.35
+          },
+          {
+            "x": -5.47,
+            "y": 10.89,
+            "z": 2.21,
+            "yaw": 79.46
+          },
+          {
+            "x": -5.1,
+            "y": 12.85,
+            "z": 2.21,
+            "yaw": 79.44
+          }
+        ],
+        "weather": {
+          "cloudiness": 80.0,
+          "dust_storm": 0.0,
+          "fog_density": 15,
+          "fog_distance": 70,
+          "fog_falloff": 0.8,
+          "mie_scattering_scale": 0.05,
+          "precipitation": 10,
+          "precipitation_deposits": 20,
+          "rayleigh_scattering_scale": 0.02,
+          "scattering_intensity": 0.65,
+          "sun_altitude_angle": 30.0,
+          "sun_azimuth_angle": 120.0,
+          "wetness": 30,
+          "wind_intensity": 12
+        },
+        "trigger_position": {
+          "pitch": "0.0",
+          "x": "-6.09",
+          "y": "-7.33",
+          "yaw": "78.89",
+          "z": "2.01"
+        },
+        "trigger_radius": 2.0,
+        "other_actors": {
+          "center": []
+        },
+        "timeout": 60.0,
+        "active": true
+      }
+    ]
+  }
+}
