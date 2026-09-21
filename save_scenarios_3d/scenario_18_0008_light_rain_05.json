@@ -1,0 +1,72 @@
+{
+  "3d": {
+    "route_01": [
+      {
+        "name": "scenario_18_0008",
+        "ego_start": {
+          "x": "-145.27",
+          "y": "-97.20",
+          "z": "5.90",
+          "yaw": "-165.30"
+        },
+        "ego_route": [],
+        "weather": {
+          "cloudiness": 10.0,
+          "dust_storm": 0.0,
+          "fog_density": 16,
+          "fog_distance": 60,
+          "fog_falloff": 1.0,
+          "mie_scattering_scale": 0.03,
+          "precipitation": 21,
+          "precipitation_deposits": 34,
+          "rayleigh_scattering_scale": 0.0331,
+          "scattering_intensity": 0.51,
+          "sun_altitude_angle": 20.0,
+          "sun_azimuth_angle": 120.0,
+          "wetness": 52,
+          "wind_intensity": 34
+        },
+        "trigger_position": {
+          "pitch": "0.0",
+          "x": "-147.21",
+          "y": "-97.71",
+          "yaw": "-165.30",
+          "z": "5.60"
+        },
+        "trigger_radius": 2.0,
+        "other_actors": {
+          "center": [
+            {
+              "type": "obstacle",
+              "model": "static.prop.container",
+              "transform": {
+                "pitch": "0.00",
+                "x": "-147.94",
+                "y": "-94.95",
+                "yaw": "-165.30",
+                "z": "5.90"
+              },
+              "rolename": "obstacle",
+              "autopilot": true
+            },
+            {
+              "type": "person",
+              "model": "walker.pedestrian.0001",
+              "transform": {
+                "pitch": "0.00",
+                "x": "-149.86",
+                "y": "-95.51",
+                "yaw": "-75.30",
+                "z": "5.90"
+              },
+              "rolename": "person",
+              "autopilot": true
+            }
+          ]
+        },
+        "timeout": 60.0,
+        "active": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "3a": {
+    "route_01": [
+      {
+        "name": "scenario_1_0006",
+        "ego_start": {
+          "x": "-42.42",
+          "y": "127.12",
+          "z": "6.21",
+          "yaw": "-44.15"
+        },
+        "ego_route": [],
+        "weather": {
+          "cloudiness": 10.0,
+          "dust_storm": 0.0,
+          "fog_density": 0,
+          "fog_distance": 80,
+          "fog_falloff": 1.0,
+          "mie_scattering_scale": 0.03,
+          "precipitation": 5,
+          "precipitation_deposits": 10,
+          "rayleigh_scattering_scale": 0.0331,
+          "scattering_intensity": 0.75,
+          "sun_altitude_angle": 20.0,
+          "sun_azimuth_angle": 120.0,
+          "wetness": 20,
+          "wind_intensity": 18
+        },
+        "trigger_position": {
+          "pitch": "0.0",
+          "x": "-39.63",
+          "y": "124.32",
+          "yaw": "-45.79",
+          "z": "5.91"
+        },
+        "trigger_radius": 2.0,
+        "other_actors": {
+          "center": [
+            {
+              "type": "person",
+              "model": "walker.pedestrian.0001",
+              "transform": {
+                "pitch": "0.00",
+                "x": "-36.72",
+                "y": "122.22",
+                "yaw": "-137.44",
+                "z": "6.21"
+              },
+              "rolename": "person",
+              "autopilot": true
+            }
+          ]
+        },
+        "timeout": 60.0,
+        "active": true
+      }
+    ]
+  }
+}
