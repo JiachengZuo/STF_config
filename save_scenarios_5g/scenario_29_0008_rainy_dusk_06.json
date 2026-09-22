@@ -1,0 +1,59 @@
+{
+  "STF-5-g-0710-t3": {
+    "route_01": [
+      {
+        "name": "scenario_29_0008",
+        "ego_start": {
+          "x": "4.15",
+          "y": "89.82",
+          "z": "2.38",
+          "yaw": "86.37"
+        },
+        "ego_route": [],
+        "weather": {
+          "cloudiness": 100.0,
+          "dust_storm": 0.0,
+          "fog_density": 40,
+          "fog_distance": 40,
+          "fog_falloff": 0.85,
+          "mie_scattering_scale": 0.03,
+          "precipitation": 40,
+          "precipitation_deposits": 70,
+          "rayleigh_scattering_scale": 0.0331,
+          "scattering_intensity": 0.3,
+          "sun_altitude_angle": -5.0,
+          "sun_azimuth_angle": 140.0,
+          "wetness": 90,
+          "wind_intensity": 35
+        },
+        "trigger_position": {
+          "pitch": "0.0",
+          "x": "4.65",
+          "y": "97.81",
+          "yaw": "86.42",
+          "z": "1.99"
+        },
+        "trigger_radius": 2.0,
+        "other_actors": {
+          "center": [
+            {
+              "type": "person",
+              "model": "walker.pedestrian.0001",
+              "transform": {
+                "pitch": "0.00",
+                "x": "2.68",
+                "y": "99.88",
+                "yaw": "86.42",
+                "z": "2.38"
+              },
+              "rolename": "person",
+              "autopilot": true
+            }
+          ]
+        },
+        "timeout": 60.0,
+        "active": true
+      }
+    ]
+  }
+}
