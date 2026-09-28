@@ -1,0 +1,88 @@
+{
+  "yuanlang-stf": {
+    "route_01": [
+      {
+        "name": "scenario_31_0000",
+        "ego_start": {
+          "x": "-38.07",
+          "y": "97.28",
+          "z": "-7.70",
+          "yaw": "1.94"
+        },
+        "ego_route": [
+          {
+            "x": -22.08,
+            "y": 97.82,
+            "z": -7.8,
+            "yaw": 1.94
+          },
+          {
+            "x": -18.08,
+            "y": 97.96,
+            "z": -7.8,
+            "yaw": 1.94
+          },
+          {
+            "x": -14.47,
+            "y": 98.08,
+            "z": -7.8,
+            "yaw": 1.79
+          },
+          {
+            "x": -11.95,
+            "y": 97.19,
+            "z": -7.8,
+            "yaw": -23.33
+          },
+          {
+            "x": -10.0,
+            "y": 96.15,
+            "z": -7.8,
+            "yaw": -31.09
+          },
+          {
+            "x": -7.28,
+            "y": 95.42,
+            "z": -7.8,
+            "yaw": 6.22
+          },
+          {
+            "x": -5.3,
+            "y": 95.64,
+            "z": -7.8,
+            "yaw": 6.22
+          }
+        ],
+        "weather": {
+          "cloudiness": 100.0,
+          "dust_storm": 0.0,
+          "fog_density": 34,
+          "fog_distance": 47,
+          "fog_falloff": 0.85,
+          "mie_scattering_scale": 0.03,
+          "precipitation": 35,
+          "precipitation_deposits": 62,
+          "rayleigh_scattering_scale": 0.0331,
+          "scattering_intensity": 0.36,
+          "sun_altitude_angle": -2.0,
+          "sun_azimuth_angle": 140.0,
+          "wetness": 80,
+          "wind_intensity": 31
+        },
+        "trigger_position": {
+          "pitch": "0.0",
+          "x": "-22.08",
+          "y": "97.82",
+          "yaw": "1.94",
+          "z": "-8.00"
+        },
+        "trigger_radius": 2.0,
+        "other_actors": {
+          "center": []
+        },
+        "timeout": 60.0,
+        "active": true
+      }
+    ]
+  }
+}
