@@ -1,0 +1,59 @@
+{
+  "5b": {
+    "route_01": [
+      {
+        "name": "scenario_1_0010",
+        "ego_start": {
+          "x": "-344.41",
+          "y": "80.46",
+          "z": "-7.20",
+          "yaw": "-20.33"
+        },
+        "ego_route": [],
+        "weather": {
+          "cloudiness": 65.0,
+          "dust_storm": 0.0,
+          "fog_density": 0.0,
+          "fog_distance": 100.0,
+          "fog_falloff": 1.0,
+          "mie_scattering_scale": 0.03,
+          "precipitation": 0.0,
+          "precipitation_deposits": 0.0,
+          "rayleigh_scattering_scale": 0.0331,
+          "scattering_intensity": 0.3999999999999999,
+          "sun_altitude_angle": 25.0,
+          "sun_azimuth_angle": 120.0,
+          "wetness": 0.0,
+          "wind_intensity": 39.0
+        },
+        "trigger_position": {
+          "pitch": "0.0",
+          "x": "-340.45",
+          "y": "78.39",
+          "yaw": "-34.96",
+          "z": "-7.53"
+        },
+        "trigger_radius": 2.0,
+        "other_actors": {
+          "center": [
+            {
+              "type": "bike",
+              "model": "vehicle.diamondback.century",
+              "transform": {
+                "pitch": "0.00",
+                "x": "-341.18",
+                "y": "74.21",
+                "yaw": "48.60",
+                "z": "-7.20"
+              },
+              "rolename": "bike",
+              "autopilot": true
+            }
+          ]
+        },
+        "timeout": 60.0,
+        "active": true
+      }
+    ]
+  }
+}
